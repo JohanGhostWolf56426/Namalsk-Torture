@@ -83,7 +83,6 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="3895.83" z="7512.5" r="50"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="3870.84" z="7138.89" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="3654.17" z="7491.67" r="75"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="1221.97" z="11843.5" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="11925.3" z="12026.5" r="75"/>
         <zone name="InfectedArmy" smin="5" smax="8" dmin="10" dmax="15" x="4480" z="8207.5" r="75"/>
         <zone name="InfectedArmy" smin="5" smax="10" dmin="8" dmax="12" x="5974.24" z="6640.91" r="75"/>
@@ -137,5 +136,7 @@
         <zone name="InfectedArmy" smin="2" smax="4" dmin="4" dmax="8" x="6242"  z="9632" r="50"/>
         <zone name="InfectedArmy" smin="2" smax="4" dmin="4" dmax="8" x="6183"  z="9137" r="50"/>
         <zone name="InfectedArmy" smin="2" smax="4" dmin="4" dmax="8" x="6325"  z="9329" r="50"/>
+        <!-- TF Bering Outpost -->
+        <zone name="InfectedNBC" smin="2" smax="4" dmin="4" dmax="8" x="1221.97" z="11843.5" r="75"/>
     </territory>
 </territory-type>

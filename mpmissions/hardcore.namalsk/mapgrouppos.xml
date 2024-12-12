@@ -2094,4 +2094,54 @@
 	<group name="Land_Container_1Mo" pos="6269.689941 22.291800 9330.320313" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_Container_1Mo" pos="6269.680176 22.290300 9332.759766" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_wreck_truck01_aban1_orange" pos="6268.959961 21.040300 9339.639648" rpy="-0.000000 0.000000 99.000099" a="-9.0001"/>
+    <!-- TF Bering Outpost -->
+    <group name="land_Mil_Barracks_Round_Polar" pos="1280.010010 4.282032 11798.673828" rpy="0.000000 0.000000 46.999992" a="43"/>
+	<group name="land_Mil_Barracks_Round_Polar" pos="1273.657227 3.820519 11819.130859" rpy="0.000000 0.000000 118.999947" a="-28.9999"/>
+	<group name="land_Mil_Barracks_Round_Polar" pos="1269.812744 4.046249 11789.514648" rpy="0.000000 0.000000 -133.000015" a="-137"/>
+	<group name="land_Mil_Barracks_Round_Polar" pos="1220.274780 5.581800 11814.493164" rpy="0.000000 0.000000 -73.000160" a="163"/>
+	<group name="land_Mil_Barracks_Round_Polar" pos="1195.692017 4.176265 11832.627930" rpy="0.000000 0.000000 -109.999992" a="-160"/>
+	<group name="land_Mil_Barracks_Round_Polar" pos="1202.005127 4.087417 11825.101563" rpy="0.000000 0.000000 -143.999985" a="-126"/>
+	<group name="land_seb_watchtower" pos="1242.526489 13.744633 11789.961914" rpy="0.000000 0.000000 -152.000046" a="-118"/>
+	<group name="land_seb_watchtower" pos="1179.949707 15.581731 11857.041992" rpy="0.000000 0.000000 -35.000004" a="125"/>
+	<group name="land_vys_antena" pos="1213.460571 47.271698 11880.261719" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_vys_budova_p1" pos="1263.570679 7.072923 11802.329102" rpy="0.000000 0.000000 -132.999985" a="-137"/>
+	<group name="land_vys_budova_p2" pos="1272.248413 3.436490 11885.259766" rpy="0.000000 0.000000 -138.999969" a="-131"/>
+	<group name="land_budova5_winter" pos="1263.294556 4.528619 11866.538086" rpy="0.000000 0.000000 55.999989" a="34"/>
+	<group name="land_budova3_winter" pos="1255.625610 3.991207 11878.885742" rpy="0.000000 0.000000 53.999996" a="36"/>
+	<group name="land_budova1_winter" pos="1263.105713 4.197130 11902.290039" rpy="0.000000 0.000000 13.000001" a="77"/>
+	<group name="land_budova1_winter" pos="1272.030029 4.247130 11916.280273" rpy="0.000000 0.000000 56.999985" a="33"/>
+	<group name="land_budova1_winter" pos="1289.356567 4.147132 11920.045898" rpy="0.000000 0.000000 94.000015" a="-4.00002"/>
+	<group name="land_budova2_winter" pos="1300.775391 4.300433 11894.578125" rpy="0.000000 0.000000 111.000000" a="-21"/>
+	<group name="bldr_tank_small_white" pos="1280.068359 3.139786 11880.779297" rpy="0.000000 0.000000 -49.000000" a="139"/>
+	<group name="bldr_tank_small_white" pos="1261.379517 3.399786 11829.977539" rpy="0.000000 0.000000 -90.000000" a="-180"/>
+	<group name="Land_DieselPowerPlant_Tank_Big" pos="1292.046387 4.986129 11873.418945" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="1289.382568 2.376923 11919.123047" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="1274.413086 2.160173 11884.502930" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_roadblock_cncblocks_long" pos="1295.777588 2.687557 11908.627930" rpy="0.000000 0.000000 -31.999990" a="122"/>
+	<group name="bldr_roadblock_cncblocks_short" pos="1281.826782 2.662968 11914.369141" rpy="0.000000 0.000000 -102.999992" a="-167"/>
+	<group name="bldr_roadblock_bags_long" pos="1301.910034 2.000000 11907.272461" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_roadblock_bags_long" pos="1298.226807 2.000000 11913.920898" rpy="0.000000 0.000000 -51.999996" a="142"/>
+	<group name="bldr_Garbage_Container" pos="1274.113159 2.791518 11907.477539" rpy="0.000000 0.000000 55.999992" a="34"/>
+	<group name="bldr_Garbage_Container" pos="1296.217163 2.841518 11896.760742" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_Garbage_Container_Plastic" pos="1224.955688 2.954548 11826.833984" rpy="0.000000 -4.000000 0.000000" a="90"/>
+	<group name="bldr_misc_gcontainer_big" pos="1238.505005 2.823900 11820.532227" rpy="0.000000 0.000000 -3.000004" a="93"/>
+	<group name="bldr_sign_snow_new" pos="1242.336914 3.139170 11820.731445" rpy="0.000000 0.000000 -94.000015" a="-176"/>
+	<group name="bldr_mil_camonet_roof_nato" pos="1285.177856 3.122673 11899.388672" rpy="0.000000 0.000000 94.000015" a="-4.00002"/>
+	<group name="bldr_Misc_WoodTable_Outdoor" pos="1283.264404 2.487480 11903.066406" rpy="0.000000 0.000000 -2.999998" a="93"/>
+	<group name="bldr_Misc_WoodTable_Outdoor" pos="1282.954102 2.487480 11896.371094" rpy="0.000000 0.000000 13.000004" a="77"/>
+	<group name="bldr_Misc_WoodTable_Outdoor" pos="1286.538330 2.487480 11896.363281" rpy="0.000000 0.000000 -7.000000" a="97"/>
+	<group name="bldr_Misc_WoodTable_Outdoor" pos="1287.103027 2.487480 11902.723633" rpy="0.000000 0.000000 15.000001" a="75"/>
+	<group name="bldr_mil_camonet_roof_nato" pos="1211.732544 3.084212 11838.166992" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Misc_WoodTable_Outdoor" pos="1214.198364 2.487480 11837.733398" rpy="0.000000 0.000000 3.000002" a="87"/>
+	<group name="bldr_Misc_WoodTable_Outdoor" pos="1209.254028 2.487480 11838.384766" rpy="0.000000 0.000000 10.000004" a="80"/>
+	<group name="bldr_Garbage_Pile7" pos="1253.760498 2.782684 11803.303711" rpy="0.000000 0.000000 -41.000008" a="131"/>
+	<group name="bldr_Garbage_Pile8" pos="1255.233643 2.513650 11793.467773" rpy="0.000000 0.000000 42.000000" a="48"/>
+	<group name="bldr_Garbage_Pile2" pos="1248.679199 2.386817 11878.161133" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Garbage_Pile2" pos="1261.201172 2.256314 11909.809570" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Garbage_Pile4" pos="1310.345459 2.000000 11893.086914" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Garbage_Pile4" pos="1295.962769 2.000000 11863.342773" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Garbage_Pile3" pos="1299.064941 2.269187 11865.817383" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Garbage_Bin" pos="1258.510010 2.599457 11867.951172" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Garbage_Bin" pos="1284.860352 2.515726 11912.053711" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Garbage_Bin" pos="1201.729736 3.085923 11831.549805" rpy="-0.000000 0.000000 0.000000" a="90"/>
 </map>

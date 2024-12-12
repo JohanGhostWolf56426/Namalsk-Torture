@@ -18,4 +18,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="db">
 		<file name="types_dzn.xml" type="types" />
 	</ce>
+	<!-- GW_Items -->
+	<ce folder="GW_Items">
+		<file name="GW_Events.xml" type="events" />
+	</ce>
 </economycore>

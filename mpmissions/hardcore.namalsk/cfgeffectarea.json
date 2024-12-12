@@ -45,6 +45,29 @@
 				"TinyPartName": "nst/ns_dayz/effects/particles/contaminated_underground_tiny",
 				"PPERequesterType": "PPERequester_NamContamination"
 			}
+		},
+		{ 	"AreaName": "TF_Bering_Outpost", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1221.97, 0, 11843.5 ],
+				"Radius": 150,
+				"PosHeight": 50,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
 		}
     ],
 
