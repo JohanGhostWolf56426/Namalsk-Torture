@@ -19,6 +19,8 @@
     <territory color="2164195328">
         <zone name="InfectedMedic" smin="5" smax="10" dmin="3" dmax="8" x="6732.62" z="10987.9" r="50"/>
         <zone name="InfectedMedic" smin="5" smax="10" dmin="3" dmax="8" x="7280" z="7955" r="50"/>
+        <!-- GW Additions -->
+        <!-- Lubjansk -->
         <zone name="InfectedMedic" smin="1" smax="2" dmin="2" dmax="4" x="4507.42" z="11037.11" r="50"/>
     </territory>
     <territory color="2164238848">
@@ -110,8 +112,18 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4287.5" z="6345" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="2837.5" z="6302.5" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4177.5" z="8885.71" r="75"/>
+        <!-- GW Additions -->
+        <!-- Brensk Marsh -->
         <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="6180.08" z="5687.11" r="50"/>
         <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="6162.89" z="5730.86" r="50"/>
         <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="6171.48" z="5802.34" r="50"/>
+        <!-- Ice Airfield -->
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1818.59" z="8116.18" r="40"/>	
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1826.81" z="8071" r="25"/>	
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1858.7" z="8095.28" r="10"/>	
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1817.48" z="8028.7" r="10"/>	
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1767.27" z="8062.81" r="10"/>	
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1713.4"  z="7967.56" r="30"/>	
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="2" dmax="4" x="1765.5"  z="7990.19" r="20"/>
     </territory>
 </territory-type>
