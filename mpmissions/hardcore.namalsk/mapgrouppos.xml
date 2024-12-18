@@ -1110,7 +1110,6 @@
     <group name="Land_Boat_Small3" pos="7174.113281 2.763011 11902.652344" rpy="0.000000 -11.106619 -33.456879" a="123.456863" />
     <group name="land_seb_bouda_plech" pos="7241.570313 239.663223 7047.645508" rpy="-0.000000 0.000000 -101.248253" a="-168.751740" />
     <group name="Land_Water_Station" pos="7244.015625 240.477905 7065.954590" rpy="-0.000000 0.000000 65.305473" a="24.694523" />
-    <group name="Land_City_Store_WithStairs" pos="7249.093262 87.036423 7949.899902" rpy="-0.051212 -0.053442 133.779175" a="-43.779182" />
     <group name="Land_Ruin_HouseBig1_NoIvy_Half" pos="7206.136230 16.941826 10834.061523" rpy="-0.000000 0.000000 -3.753725" a="93.753716" />
     <group name="Land_Slum_House4" pos="7224.792969 16.844326 10832.859375" rpy="-0.000000 0.000000 88.508224" a="1.491772" />
     <group name="Land_Wreck_Caravan_WGreen" pos="7237.735352 17.757305 10825.383789" rpy="-0.216645 -0.004812 88.727470" a="1.272521" />
@@ -1129,13 +1128,6 @@
     <group name="Land_Sawmill_Illuminanttower" pos="7269.695313 248.797791 7074.691406" rpy="-0.000000 0.000000 -25.295294" a="115.295296" />
     <group name="Land_Workshop4" pos="7256.444824 240.372116 7054.289063" rpy="0.017859 0.008508 -25.473642" a="115.473633" />
     <group name="Land_Misc_DeerStand1" pos="7275.591309 158.335724 7493.637695" rpy="-0.000000 0.000000 -152.499420" a="-117.500572" />
-    <group name="Land_Office2" pos="7276.265625 93.405518 7912.738770" rpy="-0.000000 0.000000 47.538620" a="42.461376" />
-    <group name="Land_Container_1Aoh" pos="7296.110840 85.978729 7916.513184" rpy="0.000612 -0.551766 45.894970" a="44.105026" />
-    <group name="Land_Office2" pos="7282.976074 93.151840 7981.314941" rpy="-0.000000 0.000000 -45.940140" a="135.940140" />
-    <group name="Land_City_Hospital" pos="7267.459473 91.947807 7994.036133" rpy="-0.034054 -0.034473 134.649658" a="-44.649658" />
-    <group name="Land_Construction_Crane" pos="7263.729980 102.884445 7959.270020" rpy="0.056890 -0.055000 44.032238" a="45.967754" />
-    <group name="land_seb_mine_maringotka" pos="7274.007813 86.351768 7961.315918" rpy="-0.000000 0.000000 32.721928" a="57.278065" />
-    <group name="Land_Container_1Aoh" pos="7252.808105 85.764771 7976.464355" rpy="0.027837 0.028116 -45.285091" a="135.285080" />
     <group name="Land_Slum_House6" pos="7284.249512 24.987606 8453.532227" rpy="-0.000000 0.000000 -177.971237" a="-92.028740" />
     <group name="Land_Mil_Fortified_Nest_Watchtower" pos="7283.448242 47.548656 10532.758789" rpy="-0.000000 0.000000 2.076034" a="87.923965" />
     <group name="Land_Mil_Tent_Big2_2" pos="7292.359375 47.477131 10536.822266" rpy="-0.000000 0.000000 90.505974" a="-0.505976" />
@@ -1144,15 +1136,7 @@
     <group name="land_wrecked_uaz" pos="7277.679688 46.326046 10543.404297" rpy="0.013755 0.014218 -45.947922" a="135.947906" />
     <group name="Land_Mil_Fortified_Nest_Small" pos="7274.550293 46.464035 10557.371094" rpy="-0.000000 0.000000 90.165375" a="-0.165382" />
     <group name="Land_Slum_House4" pos="7268.740234 9.904256 11067.854492" rpy="-0.000000 0.000000 -150.831161" a="-119.168816" />
-    <group name="Land_City_Hospital" pos="7303.510254 92.215866 7935.281250" rpy="-0.028436 -0.027509 135.949707" a="-45.949703" />
-    <group name="Land_Container_1Bo" pos="7314.177246 85.890526 7923.020020" rpy="-0.226794 -0.593998 30.872498" a="59.127495" />
-    <group name="Land_Office2" pos="7300.475586 93.056458 7964.158203" rpy="-0.000000 0.000000 134.783127" a="-44.783142" />
     <group name="Land_Construction_Crane" pos="7336.770996 102.661751 7999.883301" rpy="-0.033624 0.034893 -133.939346" a="-136.060638" />
-    <group name="Land_Workshop4" pos="7335.041992 86.129578 7958.293945" rpy="0.028828 0.027098 -43.227921" a="133.227921" />
-    <group name="Land_Workshop2" pos="7324.101563 85.723946 7969.186035" rpy="-0.000000 0.000000 135.073914" a="-45.073914" />
-    <group name="Land_Workshop1" pos="7321.016113 85.712685 7987.463867" rpy="0.027727 0.028224 -45.509205" a="135.509201" />
-    <group name="Land_Water_Station" pos="7301.093750 85.957825 7997.386230" rpy="-0.000000 0.000000 44.037029" a="45.962963" />
-    <group name="Land_Container_1Bo" pos="7334.121582 85.690346 7953.492188" rpy="-0.453991 0.580945 136.658875" a="-46.658867" />
     <group name="Land_Office1" pos="7325.563477 89.229584 8008.270020" rpy="0.024029 -0.024426 45.468334" a="44.531658" />
     <group name="Land_Boat_Small1" pos="7327.616211 1.894171 9198.063477" rpy="-0.000000 -17.484299 -2.416620" a="92.416611" />
     <group name="Land_Boat_Small1" pos="7334.318848 2.144971 9966.933594" rpy="-0.000000 -5.563548 148.790192" a="-58.790199" />
@@ -1166,8 +1150,6 @@
     <group name="Land_Mil_Fortified_Nest_Big" pos="7301.193848 46.484566 10561.400391" rpy="-0.000000 0.000000 -179.313828" a="-90.686157" />
     <group name="land_wrecked_ural" pos="7308.352539 7.685975 11068.367188" rpy="-5.903353 3.309531 168.619934" a="-78.619934" />
     <group name="Land_Misc_DeerStand2" pos="7361.330078 56.479668 6075.582520" rpy="-0.000000 0.000000 78.747864" a="11.252131" />
-    <group name="Land_Container_1Aoh" pos="7371.340820 85.584816 7984.077148" rpy="0.000294 1.345767 -39.237473" a="129.237473" />
-    <group name="Land_Container_1Aoh" pos="7359.847656 85.586128 7976.513184" rpy="0.205637 -1.110416 -46.248886" a="136.248886" />
     <group name="Land_Misc_DeerStand2" pos="7373.695801 27.500687 8902.028320" rpy="-0.000000 0.000000 49.883938" a="40.116058" />
     <group name="land_ala_warehouse_small" pos="7367.857422 46.889824 10541.500977" rpy="-0.000000 0.000000 96.279953" a="-6.279958" />
     <group name="land_seb_bouda_plech" pos="7383.746582 46.473248 10519.981445" rpy="-0.000000 0.000000 85.821960" a="4.178038" />
@@ -1445,6 +1427,28 @@
     <group name="land_sea_oilrig_derrick_tower" pos="11898.373047 36.659634 7559.764648" rpy="-0.000000 0.000000 86.501999" a="3.497997" />
     <group name="land_sea_oilrig" pos="11900.250000 8.361121 7531.280762" rpy="-0.000000 0.000000 86.501999" a="3.497997" />
     <group name="land_sea_subB" pos="11925.458984 9.931954 12036.101563" rpy="-0.000000 0.000000 -159.999985" a="-109.999992" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <!-- GW additions -->
     <!--Nemsk -->
     <group name="Land_House_1W03" pos="9009.683594 12.468054 10145.851563" rpy="-0.000000 0.000000 -179.999878" a="-90.0001"/>
@@ -1986,23 +1990,87 @@
 	<group name="land_misc_barel_fire_2" pos="1860.855835 2.126757 8083.480957" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="bldr_mil_reinforcedtank2_shelter1" pos="1733.098999 3.209058 8018.335938" rpy="-0.000000 -0.000000 -56.163475" a="146.163"/>
     <!-- Airfield -->
-    <group name="Land_Airfield_Radar_Tall" pos="6218.939941 43.390800 9619.500000" rpy="-0.000000 0.000000 90.225296" a="-0.225296"/>
-	<group name="Land_Mil_Airfield_HQ" pos="6320.509766 26.651400 9427.719727" rpy="0.000000 0.000000 179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3s" pos="6290.929688 30.528461 9121.764648" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3s" pos="6191.512207 30.484360 9242.396484" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3s" pos="6193.594727 30.885807 9379.140625" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3s" pos="6191.260254 30.853039 9581.370117" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3s" pos="6280.375977 30.902290 9622.929688" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6217.832031 33.239105 9554.270508" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6194.655762 32.719299 9480.917969" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6219.213379 33.229107 9433.078125" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6264.341797 33.253704 9397.782227" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6340.902832 33.449570 9462.893555" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6222.581543 33.386600 9257.825195" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6192.048340 32.013702 9304.454102" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6193.123535 31.241547 9151.668945" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6315.245117 32.380459 9174.182617" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_3f" pos="6223.290039 33.242973 9141.887695" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6190.246582 28.546915 9353.754883" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6192.521973 27.658438 9439.053711" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6220.095703 28.755808 9490.992188" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6282.631348 28.665810 9433.645508" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6267.368652 28.559940 9497.426758" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6191.314453 27.595068 9521.243164" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6297.184082 27.800968 9562.854492" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6339.707031 29.248295 9441.425781" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6282.826660 29.028143 9287.159180" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6319.421387 28.144642 9214.315430" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6318.043457 25.745741 9144.305664" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6285.673340 28.486839 9069.674805" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6224.809570 28.638405 9096.355469" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2sb" pos="6225.932129 29.089172 9185.224609" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_stone9" pos="6267.214844 21.236168 9276.222656" rpy="0.641700 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Tank_Big" pos="6194.675781 25.266373 9065.308594" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Tank_Big" pos="6210.491211 25.514463 9050.902344" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_mil_reinforcedtank1" pos="6295.918457 20.194202 9029.542969" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_mil_reinforcedtank1" pos="6280.905762 20.058750 8993.662109" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_seb_watchtower" pos="6300.947754 31.833838 9148.212891" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Mil_Barracks3" pos="6270.955078 22.925938 9463.880859" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Mil_Barracks2" pos="6221.186035 22.347715 9447.846680" rpy="0.000000 0.000000 -89.082169" a="179.082"/>
+	<group name="Land_Mil_Barracks2" pos="6221.253418 22.363699 9419.164063" rpy="0.000000 0.000000 -89.472664" a="179.473"/>
+	<group name="bldr_plnt_b_naked_2s" pos="6314.605957 23.592888 9236.826172" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_b_naked_2s" pos="6219.731445 23.298088 9379.581055" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_b_naked_2s" pos="6263.836914 23.360390 9366.102539" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_b_naked_2s" pos="6285.319336 23.168087 9425.380859" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_b_naked_2s" pos="6285.214844 23.058088 9522.806641" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_b_naked_2s" pos="6221.227539 23.288088 9579.762695" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_plnt_b_naked_2s" pos="6222.259766 23.288088 9527.722656" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Wreck_Mi8" pos="6256.604980 22.727940 9151.922852" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="6278.421387 21.677866 9287.138672" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Mil_Barracks5" pos="6196.699219 26.533283 9559.195313" rpy="-0.000000 -0.000000 89.329399" a="0.670601"/>
+	<group name="Land_Medical_Tent_Big" pos="6223.479980 21.056240 9308.598633" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Medical_Tent_Big" pos="6223.459961 21.035938 9327.539063" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Medical_Tent_Shower" pos="6222.313477 22.601765 9337.371094" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Medical_Tent_Shower" pos="6222.327148 22.621763 9318.115234" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Medical_Tent_Shower" pos="6222.323730 22.643280 9299.052734" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Mil_Barracks1" pos="6276.203125 23.067030 9346.494141" rpy="-0.000000 0.000000 -179.999924" a="-90.0001"/>
+	<group name="Land_Mil_Barracks1" pos="6276.219727 23.119804 9360.862305" rpy="-0.000000 0.000000 -179.997543" a="-90.0025"/>
+	<group name="Land_Mil_Barracks1" pos="6276.236816 23.105488 9374.965820" rpy="-0.000000 0.000000 -179.999908" a="-90.0001"/>
+	<group name="Land_Mil_Barracks1" pos="6276.183105 22.876122 9402.979492" rpy="-0.000000 0.000000 -179.999924" a="-90.0001"/>
+	<group name="Land_Mil_ATC_Small" pos="6272.651367 30.717358 9563.673828" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Workshop5" pos="6222.433105 22.608196 9228.054688" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp2" pos="6313.189941 21.706675 9416.274414" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp2" pos="6289.064453 21.965757 9370.406250" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp2" pos="6288.209473 21.979534 9320.693359" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp2" pos="6226.163574 21.859535 9382.543945" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp1" pos="6220.110840 22.161522 9537.276367" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp1" pos="6226.709473 22.276155 9276.605469" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp1" pos="6326.156738 21.975513 9443.019531" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_bmp1" pos="6301.510254 22.386986 9282.773438" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_ural" pos="6281.926270 22.067514 9416.480469" rpy="0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="land_wrecked_ural" pos="6272.020996 22.170885 9415.538086" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="Land_Airfield_Radar_Tall" pos="6218.939941 43.390800 9619.500000" rpy="-0.000000 0.000000 90.225296" a="-0.225296"/>
+	<group name="Land_Mil_Airfield_HQ" pos="6320.509766 26.651400 9427.719727" rpy="0.000000 0.000000 179.999939" a="-89.9999"/>
 	<group name="bldr_hbarrier_6m" pos="6286.750000 21.300600 9447.629883" rpy="-0.000000 0.000000 -89.352798" a="179.353"/>
 	<group name="bldr_hbarrier_6m" pos="6264.120117 21.234800 9447.570313" rpy="-0.000000 0.000000 -89.352798" a="179.353"/>
 	<group name="bldr_hbarrier_6m" pos="6287.040039 21.200199 9466.730469" rpy="-0.000000 0.000000 -89.352798" a="179.353"/>
-	<group name="bldr_hbarrier_6m" pos="6263.640137 21.158199 9466.480469" rpy="-0.000000 0.000000 -89.352798" a="179.353"/>
-	<group name="Land_Mil_ATC_Big" pos="6277.140137 36.862099 9208.370117" rpy="-0.000000 0.000000 -179.315964" a="-90.684"/>
-	<group name="bldr_quarry_hammermill" pos="6294.379883 23.684999 9168.679688" rpy="-0.000000 0.000000 152.999969" a="-63"/>
+	<group name="Land_Mil_ATC_Big" pos="6277.140137 36.862099 9208.370117" rpy="-0.000000 0.000000 -179.315933" a="-90.6841"/>
+	<group name="bldr_quarry_hammermill" pos="6294.379883 23.684999 9168.679688" rpy="-0.000000 0.000000 152.999939" a="-62.9999"/>
 	<group name="bldr_Wall_MilCncBarrier" pos="6283.140137 21.633900 9154.030273" rpy="-0.000000 0.000000 107.999992" a="-18"/>
-	<group name="bldr_Wall_MilCncBarrier" pos="6289.540039 21.753500 9163.719727" rpy="-0.000000 0.000000 152.999969" a="-63"/>
+	<group name="bldr_Wall_MilCncBarrier" pos="6289.540039 21.753500 9163.719727" rpy="-0.000000 0.000000 152.999939" a="-62.9999"/>
 	<group name="bldr_Wall_MilCncBarrier" pos="6285.379883 21.677900 9159.500000" rpy="-0.000000 0.000000 120.599991" a="-30.6"/>
-	<group name="land_wrecked_bmp2" pos="6263.810059 22.160000 9194.309570" rpy="-0.000000 0.000000 161.999969" a="-72"/>
+	<group name="land_wrecked_bmp2" pos="6263.810059 22.160000 9194.309570" rpy="-0.000000 0.000000 161.999954" a="-72"/>
 	<group name="land_wrecked_ural_onside" pos="6287.209961 22.759001 9157.769531" rpy="-0.000000 -0.000000 36.000103" a="53.9999"/>
-	<group name="bldr_wreck_decal_big" pos="6287.689941 21.432301 9157.000000" rpy="-0.000000 -0.000000 35.999996" a="54"/>
-	<group name="bldr_Misc_Barricade" pos="6290.339844 21.823400 9156.509766" rpy="-0.000000 0.000000 125.999992" a="-36"/>
-	<group name="bldr_Wall_Barricade1_4" pos="6262.160156 21.211300 9226.360352" rpy="0.000000 0.000000 -87.754982" a="177.755"/>
-	<group name="bldr_Wall_Barricade1_4" pos="6261.770020 21.210600 9223.660156" rpy="-0.000000 -0.000000 45.000103" a="44.9999"/>
 	<group name="Land_DieselPowerPlant_Tank_Big" pos="6316.189941 24.006701 9315.450195" rpy="0.000000 0.000000 -89.999901" a="180"/>
 	<group name="Land_DieselPowerPlant_Tank_Small" pos="6316.729980 32.052299 9315.580078" rpy="-0.000000 -0.000000 -84.506378" a="174.506"/>
 	<group name="bldr_Prison_Wall_Small" pos="6289.709961 21.875500 9232.629883" rpy="-0.000000 0.000000 -81.095001" a="171.095"/>
@@ -2011,11 +2079,10 @@
 	<group name="bldr_Prison_Wall_Small" pos="6288.979980 21.899500 9282.690430" rpy="-0.000000 0.000000 -81.095001" a="171.095"/>
 	<group name="bldr_Prison_Wall_Small" pos="6288.970215 21.801901 9308.049805" rpy="-0.000000 0.000000 -81.095001" a="171.095"/>
 	<group name="bldr_wall_gate_opendam" pos="6287.220215 22.444401 9296.169922" rpy="-0.000000 0.000000 91.799988" a="-1.79999"/>
-	<group name="bldr_Prison_Wall_Small" pos="6280.640137 21.805700 9316.540039" rpy="-0.000000 0.000000 -169.960968" a="-100.039"/>
-	<group name="bldr_Prison_Wall_Small" pos="6271.930176 21.814800 9316.610352" rpy="-0.000000 0.000000 -169.960968" a="-100.039"/>
+	<group name="bldr_Prison_Wall_Small" pos="6280.640137 21.805700 9316.540039" rpy="-0.000000 0.000000 -169.960938" a="-100.039"/>
+	<group name="bldr_Prison_Wall_Small" pos="6271.930176 21.814800 9316.610352" rpy="-0.000000 0.000000 -169.960938" a="-100.039"/>
 	<group name="land_nor_watchtower" pos="6266.609863 34.037800 9313.959961" rpy="-0.000000 -0.000000 90.459297" a="-0.459297"/>
 	<group name="bldr_wreck_brdm" pos="6262.169922 21.714399 9317.849609" rpy="-0.000000 -0.000000 35.999996" a="54"/>
-	<group name="bldr_wreck_decal_small1" pos="6261.209961 21.096901 9318.389648" rpy="-0.000000 -0.000000 35.999996" a="54"/>
 	<group name="bldr_Hanged_civil" pos="6271.200195 37.790298 9309.299805" rpy="0.000000 0.000000 -35.999996" a="126"/>
 	<group name="Land_Airfield_Hangar_Green" pos="6242.729980 26.950100 9625.110352" rpy="-0.000000 -0.000000 0.000000" a="90"/>
 	<group name="bldr_Airfield_Lamp" pos="6225.220215 33.127800 9571.599609" rpy="-0.000000 0.000000 144.000000" a="-54"/>
@@ -2023,7 +2090,6 @@
 	<group name="Land_Mil_Tent_Big2_1" pos="6284.040039 23.900999 9237.419922" rpy="-0.000000 0.000000 -90.614998" a="-179.385"/>
 	<group name="bldr_tent_ltable" pos="6287.060059 22.243000 9226.790039" rpy="-0.000000 0.000000 91.799988" a="-1.79999"/>
 	<group name="bldr_tent_ltable" pos="6287.120117 22.264999 9230.250000" rpy="-0.000000 0.000000 91.799988" a="-1.79999"/>
-	<group name="bldr_tent_pallets" pos="6265.089844 22.095100 9229.730469" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="bldr_Garbage_Bin" pos="6289.250000 22.336300 9228.280273" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="bldr_Garbage_Pile1" pos="6266.180176 21.931499 9243.790039" rpy="0.000000 0.000000 -89.999901" a="180"/>
 	<group name="bldr_Garbage_Container_Glass" pos="6277.160156 22.574400 9229.419922" rpy="0.000000 0.000000 -89.999901" a="180"/>
@@ -2037,8 +2103,8 @@
 	<group name="Land_Mil_Barracks_Round" pos="6270.189941 22.239700 9262.799805" rpy="0.000000 0.000000 -90.543282" a="-179.457"/>
 	<group name="Land_Mil_Barracks2" pos="6284.839844 22.596300 9271.570313" rpy="0.000000 0.000000 -89.999901" a="180"/>
 	<group name="bldr_Garbage_Pile4" pos="6287.209961 21.575800 9281.019531" rpy="-0.000000 0.000000 135.000000" a="-45"/>
-	<group name="bldr_Garbage_Container_Plastic" pos="6288.160156 22.098000 9284.250000" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
-	<group name="bldr_Garbage_Container_Paper" pos="6288.169922 22.088200 9285.780273" rpy="-0.000000 0.000000 -179.999969" a="-90"/>
+	<group name="bldr_Garbage_Container_Plastic" pos="6288.160156 22.098000 9284.250000" rpy="-0.000000 0.000000 -179.999939" a="-90.0001"/>
+	<group name="bldr_Garbage_Container_Paper" pos="6288.169922 22.088200 9285.780273" rpy="-0.000000 0.000000 -179.999939" a="-90.0001"/>
 	<group name="bldr_Garbage_Pile8" pos="6286.890137 21.597000 9290.370117" rpy="0.000000 0.000000 -8.999960" a="99"/>
 	<group name="bldr_Garbage_Pile7" pos="6287.750000 21.670700 9288.639648" rpy="-0.000000 -0.000000 80.999977" a="9.00002"/>
 	<group name="bldr_tent_ltable" pos="6266.470215 21.651100 9278.450195" rpy="-0.000000 0.000000 0.000000" a="90"/>
@@ -2049,32 +2115,26 @@
 	<group name="bldr_Sign_EnochMil_Leave_Big_ENPL" pos="6289.350098 22.399700 9291.120117" rpy="0.000000 0.000000 -89.999901" a="180"/>
 	<group name="bldr_Sign_EnochMil_Leave_Big_ENPL" pos="6289.629883 22.351999 9299.730469" rpy="0.000000 0.000000 -89.999901" a="180"/>
 	<group name="Land_Wreck_C130J" pos="6244.049805 25.593800 9522.820313" rpy="-0.000000 0.000000 0.000000" a="90"/>
-	<group name="bldr_Garbage_Pile3" pos="6246.509766 21.080000 9511.410156" rpy="-0.000000 0.000000 161.999969" a="-72"/>
 	<group name="bldr_wreck_t72_chassis" pos="6284.850098 21.503700 9481.120117" rpy="-0.000000 -0.000000 72.000015" a="18"/>
 	<group name="Land_Mil_Tent_Big2_1" pos="6283.830078 23.693600 9250.480469" rpy="0.000000 0.000000 -91.595192" a="-178.405"/>
 	<group name="Land_Mil_Tent_Big2_1" pos="6270.819824 23.549700 9250.540039" rpy="-0.000000 0.000000 -89.321899" a="179.322"/>
 	<group name="Land_Mil_Tent_Big2_1" pos="6270.689941 23.727100 9237.480469" rpy="-0.000000 0.000000 -89.321899" a="179.322"/>
-	<group name="land_misc_barel_fire_2" pos="6285.609863 21.685301 9284.610352" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="6285.609863 21.478878 9284.610352" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="Land_City_FireStation" pos="6314.310059 21.417900 9267.519531" rpy="-0.000000 -0.000000 90.000000" a="0"/>
-	<group name="bldr_Sidewalk_Stairs" pos="6330.770020 18.665300 9275.740234" rpy="-0.000000 0.000000 90.000000" a="0"/>
+	<group name="bldr_Sidewalk_Stairs" pos="6329.597656 18.665300 9275.767578" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="bldr_Sidewalk_Stairs" pos="6324.649902 18.469200 9253.969727" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_Mil_Barracks6" pos="6306.819824 21.577101 9189.040039" rpy="-0.000000 0.000000 115.879990" a="-25.88"/>
 	<group name="Land_Mil_Barracks6" pos="6279.200195 20.927099 9135.790039" rpy="-0.000000 0.000000 119.484001" a="-29.484"/>
 	<group name="land_wrecked_mi8" pos="6318.629883 22.542101 9463.879883" rpy="-0.000000 -0.000000 72.000015" a="18"/>
 	<group name="land_wrecked_mi8" pos="6316.689941 22.393000 9492.089844" rpy="-0.000000 -0.000000 -54.625195" a="144.625"/>
-	<group name="bldr_Garbage_Pile3" pos="6311.879883 20.918900 9460.230469" rpy="-0.000000 0.000000 -152.999969" a="-117"/>
-	<group name="bldr_Garbage_Pile3" pos="6323.899902 20.775600 9488.950195" rpy="-0.000000 -0.000000 34.199993" a="55.8"/>
 	<group name="Land_Mil_Tent_Big2_1" pos="6280.040039 22.870100 9447.929688" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_Mil_Tent_Big2_1" pos="6270.290039 22.859501 9447.870117" rpy="-0.000000 0.000000 90.000000" a="0"/>
-	<group name="Land_Mil_Tent_Big2_1" pos="6280.049805 22.773701 9466.059570" rpy="-0.000000 0.000000 90.000000" a="0"/>
-	<group name="Land_Mil_Tent_Big2_1" pos="6270.299805 22.763201 9466.000000" rpy="-0.000000 0.000000 90.000000" a="0"/>
-	<group name="bldr_hbarrier_6m" pos="6270.200195 21.107000 9474.190430" rpy="-0.000000 0.000000 179.999969" a="-90"/>
-	<group name="bldr_hbarrier_6m" pos="6280.040039 21.131800 9474.250000" rpy="-0.000000 0.000000 179.999969" a="-90"/>
-	<group name="bldr_hbarrier_6m" pos="6270.259766 21.282200 9439.099609" rpy="-0.000000 0.000000 179.999969" a="-90"/>
-	<group name="bldr_hbarrier_6m" pos="6280.100098 21.306999 9439.160156" rpy="-0.000000 0.000000 179.999969" a="-90"/>
-	<group name="bldr_hbarrier_round" pos="6263.870117 21.035500 9456.879883" rpy="-0.000000 0.000000 97.199989" a="-7.19999"/>
+	<group name="bldr_hbarrier_6m" pos="6270.200195 21.107000 9474.190430" rpy="-0.000000 0.000000 179.999939" a="-89.9999"/>
+	<group name="bldr_hbarrier_6m" pos="6280.040039 21.131800 9474.250000" rpy="-0.000000 0.000000 179.999939" a="-89.9999"/>
+	<group name="bldr_hbarrier_6m" pos="6270.259766 21.282200 9439.099609" rpy="-0.000000 0.000000 179.999939" a="-89.9999"/>
+	<group name="bldr_hbarrier_6m" pos="6280.100098 21.306999 9439.160156" rpy="-0.000000 0.000000 179.999939" a="-89.9999"/>
 	<group name="bldr_hbarrier_round" pos="6287.040039 21.286501 9456.889648" rpy="0.000000 0.000000 -80.999901" a="171"/>
-	<group name="bldr_Prison_Wall_Small" pos="6264.049805 22.014400 9237.429688" rpy="-0.000000 0.000000 100.248985" a="-10.249"/>
+	<group name="bldr_Prison_Wall_Small" pos="6264.049805 22.014400 9237.429688" rpy="0.000000 0.000000 100.248985" a="-10.249"/>
 	<group name="bldr_Prison_Wall_Small" pos="6264.069824 22.005199 9254.110352" rpy="-0.000000 0.000000 99.407097" a="-9.4071"/>
 	<group name="bldr_Prison_Wall_Small" pos="6264.049805 22.008301 9270.799805" rpy="-0.000000 0.000000 99.901680" a="-9.90168"/>
 	<group name="bldr_Prison_Wall_Small" pos="6264.020020 22.016399 9285.750000" rpy="-0.000000 0.000000 99.276695" a="-9.2767"/>
@@ -2083,14 +2143,10 @@
 	<group name="Land_Container_1Mo" pos="6279.450195 22.276300 9322.669922" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_Container_1Mo" pos="6279.450195 22.276300 9326.330078" rpy="-0.000000 -0.000000 90.000000" a="0"/>
 	<group name="bldr_wreck_hmmwv" pos="6272.669922 22.129200 9322.910156" rpy="-0.000000 0.000000 135.000000" a="-45"/>
-	<group name="bldr_wreck_decal_small1" pos="6271.250000 21.142599 9323.519531" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="Land_Container_1Moh" pos="6281.160156 24.836100 9324.599609" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="Land_Container_1Moh" pos="6277.520020 24.836100 9324.599609" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="bldr_container_2d" pos="6279.339844 23.609600 9330.240234" rpy="-0.000000 0.000000 90.000000" a="0"/>
-	<group name="bldr_misc_gcontainer_big" pos="6286.709961 21.810101 9324.400391" rpy="-0.000000 0.000000 90.000000" a="0"/>
-	<group name="bldr_Garbage_Container2_Open" pos="6286.649902 21.806101 9328.129883" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="bldr_container_2e" pos="6277.750000 23.692400 9336.000000" rpy="-0.000000 0.000000 0.000000" a="90"/>
-	<group name="Land_Container_1Bo" pos="6279.669922 22.260599 9341.719727" rpy="-0.000000 -0.000000 90.000000" a="0"/>
 	<group name="Land_Container_1Mo" pos="6269.689941 22.291800 9330.320313" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_Container_1Mo" pos="6269.680176 22.290300 9332.759766" rpy="-0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_wreck_truck01_aban1_orange" pos="6268.959961 21.040300 9339.639648" rpy="-0.000000 0.000000 99.000099" a="-9.0001"/>
@@ -2270,4 +2326,864 @@
 	<group name="Land_Wreck_V3S" pos="4677.536133 5.649634 9924.338867" rpy="0.000000 0.000000 19.000004" a="71"/>
 	<group name="land_fuelstation_w_feed" pos="4657.417969 7.249710 9867.139648" rpy="0.000000 0.000000 90.000000" a="0"/>
 	<group name="Land_Tank_Medium_Stairs" pos="4653.475586 7.904421 9868.064453" rpy="0.000000 0.000000 178.000000" a="-88"/>
+    <!-- Namalsk Tara Hospital -->
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.325195 84.804634 7976.280762" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.500488 84.799599 7978.382813" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7275.431641 84.799599 7978.977539" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7275.188965 84.799599 7979.098633" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.117188 84.799606 7978.882813" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7275.738770 84.799606 7978.453613" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7276.107910 84.799599 7979.093750" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7276.685547 84.799591 7979.699707" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7276.395508 84.799576 7979.744629" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.716797 84.799652 7980.198242" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.101563 84.799637 7980.068359" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.449707 84.799591 7981.506836" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.739258 84.799583 7982.297852" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.719238 84.799629 7980.893555" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.899414 84.799637 7980.438477" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.380371 84.799599 7979.844238" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.367676 84.799599 7979.269043" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7272.327148 84.808022 7977.014648" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7267.492676 84.879608 7974.137695" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7268.361816 84.879601 7973.233887" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7268.601074 84.879593 7972.861328" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.161133 84.874329 7972.436035" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.461426 84.870483 7972.778320" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.462402 84.870476 7973.477539" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.944336 84.864304 7972.820313" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.397461 84.871300 7974.110840" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7268.691895 84.879601 7974.556152" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7266.735352 84.879585 7977.000488" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7267.020996 84.870842 7977.413086" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7267.185059 84.865639 7977.654785" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7266.312500 84.879593 7976.662109" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7270.871582 84.799599 7981.252930" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7270.626953 84.799576 7981.080566" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7271.303711 84.799599 7981.821289" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7275.182617 84.799599 7977.366211" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7275.153320 84.799599 7978.018555" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7275.414551 84.799591 7979.270020" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.264160 84.799622 7977.324219" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.221191 84.799606 7977.306641" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7334.978027 84.709602 7989.304199" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7334.665039 84.709579 7989.311035" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7343.592773 84.749634 7968.783691" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7345.310059 84.748589 7968.964355" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7345.705566 84.749405 7968.779785" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7343.686035 84.745018 7969.786133" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7345.847656 84.753242 7967.991699" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7347.530762 84.754608 7967.706055" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7347.693359 84.753052 7968.033691" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7347.851074 84.752235 7968.203125" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7348.903320 84.754135 7967.805664" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7347.418457 84.747818 7969.131836" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7346.826172 84.747238 7969.244629" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7346.021973 84.750809 7968.500488" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7347.121582 84.757545 7967.094727" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7347.672363 84.757278 7967.150879" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7348.600098 84.758972 7966.800293" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7349.097656 84.753647 7967.904785" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7345.784668 84.745056 7969.703125" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7346.694824 84.746544 7969.388672" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7349.431152 84.751900 7968.269043" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7348.286621 85.628593 7969.421875" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7346.333984 85.634544 7968.184570" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7341.933594 85.631828 7969.029297" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7333.079590 85.591835 7990.069336" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7287.269043 85.529922 8038.569336" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7311.796875 85.446602 8048.509766" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7313.336426 85.449852 8047.488281" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7255.906738 85.049591 7923.708008" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7256.482910 85.054794 7924.141113" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7285.118164 85.438545 7892.348145" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7286.529297 85.430428 7893.623535" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7284.837891 85.437431 7892.522949" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7285.189453 85.434471 7892.983398" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7286.000488 85.434120 7893.041504" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7286.430664 85.430679 7893.584961" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7297.743652 85.391495 7895.422852" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7297.697266 85.393333 7895.357422" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7297.984375 85.391487 7895.447754" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="StaticObj_Misc_GContainer_Big" pos="7314.223633 85.104767 7929.694824" rpy="-0.000000 -0.000000 46.799984" a="43.2"/>
+	<group name="StaticObj_Garbage_Pile4" pos="7314.780762 85.317268 7929.144531" rpy="-0.000000 -0.000000 62.999973" a="27"/>
+	<group name="bldr_Garbage_Pile3" pos="7313.029297 85.778252 7930.678223" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7313.356934 85.950546 7920.967773" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7306.308594 85.911758 7926.416504" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7313.725586 85.075905 7920.173340" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7313.467773 85.062080 7921.616211" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7313.295410 85.066086 7921.197266" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7312.952148 85.071465 7920.637207" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7305.910156 85.029579 7926.339844" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7306.010742 85.029587 7926.104980" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7306.461914 85.029549 7925.782715" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7306.653809 85.029541 7926.908691" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7306.104980 85.029587 7926.859375" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7305.075195 85.029587 7926.381348" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7354.240723 84.709930 7981.046875" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7350.729980 84.711197 7980.231445" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7357.386230 84.491768 7984.345703" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7357.848633 84.491768 7984.516113" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7360.856934 84.521347 7988.303711" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7350.461914 84.709579 7982.180176" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7351.275879 84.709587 7981.939941" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="land_frozen_person" pos="7352.301270 84.613106 7981.123535" rpy="-0.000000 -0.000000 -179.643234" a="-90.3568"/>
+	<group name="Land_Roadblock_WoodenCrate" pos="7350.583984 84.699303 7980.988770" rpy="-0.000000 -0.000000 17.999968" a="72"/>
+	<group name="bldr_Misc_WoodenCrate" pos="7353.509766 84.797249 7980.970215" rpy="0.000000 -12.499985 -5.399970" a="95.4"/>
+	<group name="bldr_Misc_WoodenCrate" pos="7352.525391 85.038719 7981.059082" rpy="0.000000 -25.499544 161.112961" a="-71.113"/>
+	<group name="StaticObj_Misc_WoodenCrate" pos="7351.298828 85.310966 7981.432617" rpy="-0.000000 -0.000000 89.999954" a="4.57764e-05"/>
+	<group name="bldr_MakarovIJ70" pos="7352.279785 84.544708 7980.520020" rpy="-39.499992 24.499821 -72.000008" a="162"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7243.981445 85.845154 7936.548828" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7260.069336 86.017403 7926.754395" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7258.384277 84.734657 7925.150391" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7289.256836 82.961723 7891.738281" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7310.605469 80.550667 8006.889648" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7312.758301 85.591774 8005.709961" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7311.974609 85.617912 8006.977539" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7309.326172 85.049477 8007.017090" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7310.988770 84.956261 8008.437500" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7309.980469 85.591789 8014.559082" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7269.595215 85.579369 8016.420898" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.867676 84.831650 8016.729492" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.157227 84.834328 8015.891113" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.435547 84.830994 8016.923828" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7269.336914 84.833046 8016.291504" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7236.802246 85.009598 7981.943359" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7236.018066 85.003700 7981.116699" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7235.920898 85.003716 7980.877930" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7237.516602 84.996223 7982.324707" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7236.928223 85.756813 7981.854004" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7235.546875 85.749680 7980.187988" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7216.880859 85.723030 7959.717285" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7215.535156 84.710655 7957.159180" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7291.561523 86.906105 7884.637207" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Garbage_Pile8" pos="7300.907227 85.211372 7922.247559" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="StaticObj_Garbage_Pile8" pos="7301.515137 84.870071 7923.424805" rpy="-0.000000 -0.000000 159.293137" a="-69.2931"/>
+	<group name="bldr_Dead_pile3" pos="7314.045410 85.594444 7930.295410" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7341.419434 82.211426 8015.495117" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7340.806152 85.591797 8017.853516" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7343.000977 85.591766 8015.827637" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7339.802246 85.591782 8015.556152" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7334.540039 85.591797 8011.452148" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7336.086914 85.591789 8010.374512" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7325.790039 85.495140 8034.654785" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7326.068359 84.570152 8033.041992" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7310.319824 84.720779 8018.556641" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7275.485840 85.898193 7979.672363" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="Land_BusStop_Village2" pos="7253.615234 85.781067 7913.425781" rpy="-0.000000 0.000000 -135.000000" a="-135"/>
+	<group name="bldr_sign_bus" pos="7252.094727 85.605049 7915.187988" rpy="-0.000000 0.000000 134.999878" a="-44.9999"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7263.014160 84.698380 7937.180664" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7264.379883 85.973923 7937.372070" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7263.833984 85.979500 7935.373047" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7256.966797 85.947914 7931.091309" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7258.645996 84.648491 7931.310547" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7256.418945 84.876152 7931.083984" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7257.487305 84.900085 7931.793945" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7258.270996 84.917633 7932.167480" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7258.054688 84.912811 7931.319336" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7257.814453 84.907410 7930.991699" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7263.263184 84.908623 7935.880859" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7263.542969 84.897079 7936.395996" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7264.417969 84.915337 7936.966797" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7264.482910 84.916779 7937.080566" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7264.199219 84.910423 7937.908203" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7263.239258 84.888916 7937.260254" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.526367 84.884666 7936.950195" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.129395 84.874641 7937.397949" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.685059 84.902962 7936.134277" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7263.818848 84.901909 7938.271484" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7264.139648 84.909096 7938.463867" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7265.174316 84.932274 7935.759766" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7265.778809 84.945801 7935.077637" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7265.897461 84.948463 7935.844727" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7266.582031 84.963799 7935.835449" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7266.977539 84.972672 7936.378418" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7266.008301 84.950951 7936.878906" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7266.053223 84.951950 7936.595703" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7265.823730 84.946823 7935.239746" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7265.209961 84.933067 7935.081543" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7264.797363 84.931992 7934.837402" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7258.535645 84.923553 7930.282715" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7258.045898 84.912598 7930.427246" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7259.345703 84.941704 7931.754883" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7258.603027 84.925049 7931.523438" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7256.618164 84.880623 7930.783203" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7256.269531 84.872833 7930.761719" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7252.404297 84.872360 7927.220703" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7252.415039 84.872406 7927.141602" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7251.576660 84.872375 7927.044922" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7250.938965 84.872360 7926.821289" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7251.979492 84.872375 7926.623535" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7252.574219 84.116257 7927.279785" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_d_piceaabies_fallene" pos="7256.029785 85.418716 7934.788086" rpy="-0.000000 0.000000 -152.999649" a="-117"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7258.553223 84.923943 7933.628906" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7259.950684 84.955254 7932.937500" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7260.084961 84.957253 7933.710449" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7260.352539 84.964233 7932.967773" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7259.812500 84.952156 7933.516602" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7243.795898 84.783020 7935.935547" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7244.234375 84.789322 7936.103027" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7240.233887 84.738899 7971.552246" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7239.485352 84.737717 7971.794434" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7238.566406 84.741196 7971.077148" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7240.767578 84.875839 7971.317383" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7240.166992 84.745041 7970.274902" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7239.872070 84.747627 7969.735840" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7239.469238 84.742210 7970.862305" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7239.427734 84.740227 7971.270508" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7238.270996 84.740021 7971.323242" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7239.163574 84.736351 7972.085938" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7237.774414 84.741188 7971.083496" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.179199 84.739510 7970.479980" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7263.705566 84.718201 7971.811035" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7305.422852 84.370522 7980.326172" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7305.743652 83.737396 7978.684570" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.496582 85.003998 7931.621582" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.887695 84.996391 7931.961426" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.747559 84.994049 7932.066406" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7262.354492 85.005829 7931.541016" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7261.697266 84.994354 7926.923340" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7261.315918 84.985794 7927.053223" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7261.230957 84.983902 7927.219238" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7242.469727 84.776222 7936.149902" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7310.821289 84.532341 8005.479980" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7311.725586 84.532349 8005.483398" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7312.141113 84.532364 8005.770020" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7311.346680 84.532349 8006.509766" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7310.552246 84.532364 8006.965332" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7311.211914 84.532356 8006.490234" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7312.284180 84.532341 8006.304199" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7305.161133 84.585045 7979.191895" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7306.004395 84.605690 7978.384766" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7306.084473 84.572304 7979.689941" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_misc_pallet" pos="7289.737305 84.995255 7907.500000" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_misc_pallet" pos="7288.624512 84.995201 7906.410645" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_misc_pallet" pos="7287.824707 84.995255 7909.544434" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_misc_pallet" pos="7286.711914 84.995201 7908.455078" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_misc_pallet" pos="7285.615234 84.995277 7911.840820" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_misc_pallet" pos="7284.502441 84.995224 7910.751465" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_container_1d" pos="7287.070313 86.364868 7909.208008" rpy="0.000000 0.000000 -43.199993" a="133.2"/>
+	<group name="StaticObj_Misc_GContainer_Big" pos="7282.437988 85.418396 7914.066895" rpy="-0.000000 -0.000000 46.799984" a="43.2"/>
+	<group name="StaticObj_Dead_pile3" pos="7283.354492 85.720490 7913.625977" rpy="-0.000000 -0.000000 62.999973" a="27"/>
+	<group name="bldr_Garbage_Pile2" pos="7281.999023 86.013458 7914.319336" rpy="-0.000000 0.000000 -125.999992" a="-144"/>
+	<group name="StaticObj_Garbage_Pile8" pos="7285.404297 85.392868 7913.583008" rpy="-0.000000 -0.000000 37.799988" a="52.2"/>
+	<group name="StaticObj_Furniture_canister_DZ" pos="7233.621582 85.862953 7965.799316" rpy="-0.000000 0.000000 -135.000000" a="-135"/>
+	<group name="StaticObj_Furniture_Drill" pos="7234.773438 85.923157 7967.137207" rpy="-0.000000 -0.000000 -136.088486" a="-133.912"/>
+	<group name="StaticObj_Furniture_wheel_cart_DZ" pos="7238.488281 85.787018 7966.100098" rpy="179.999954 -65.499977 -135.000000" a="-135"/>
+	<group name="StaticObj_Furniture_ladder_A_wood" pos="7279.087402 84.907326 7915.238770" rpy="0.000000 0.000000 -44.999992" a="135"/>
+	<group name="StaticObj_Misc_Pallet" pos="7280.095215 85.622002 7916.269531" rpy="1.500000 -69.999992 -45.000000" a="135"/>
+	<group name="Land_Wreck_Ikarus" pos="7261.556641 85.793976 8002.576660" rpy="-0.000000 -0.000000 -137.420700" a="-132.579"/>
+	<group name="Land_Wreck_offroad02_aban1" pos="7312.536133 86.328133 7970.452148" rpy="-0.000000 0.000000 7.305880" a="82.6941"/>
+	<group name="Land_wreck_truck01_aban1_green" pos="7300.884766 84.635338 7954.100098" rpy="-0.000000 0.000000 -153.000061" a="-117"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7276.030762 87.835739 7945.256348" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7275.752930 87.835739 7947.572754" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7300.509766 87.802742 7953.028320" rpy="-0.000000 -0.000000 -156.794846" a="-113.205"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7299.770020 87.815750 7953.429688" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7300.653320 87.799057 7954.448730" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="bldr_Misc_WoodenCrate" pos="7300.319824 86.062531 7953.740234" rpy="0.000000 -5.999988 -63.000000" a="153"/>
+	<group name="bldr_Misc_WoodenCrate" pos="7299.961426 86.067223 7952.871094" rpy="0.000000 -5.999983 -63.000000" a="153"/>
+	<group name="StaticObj_Misc_WoodenCrate_3x" pos="7298.800781 85.385239 7949.682617" rpy="-0.000000 -0.000000 27.000000" a="63"/>
+	<group name="Land_wreck_truck01_aban2_firetruck" pos="7331.665039 84.469231 7954.808105" rpy="-0.000000 0.000000 134.999481" a="-44.9995"/>
+	<group name="bldr_prop_Truck_01_Wheel_Ruined" pos="7329.484863 84.938042 7955.718750" rpy="0.000000 0.000000 132.559174" a="-42.5592"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7310.194824 84.524399 7947.511230" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7308.813477 84.524399 7946.187988" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.439941 84.561996 7944.859863" rpy="-1.999999 0.000000 136.183960" a="-46.184"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7306.056152 84.612007 7943.533203" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7304.654785 84.612015 7942.189941" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7303.259766 84.622093 7940.853516" rpy="-0.000000 -0.000000 136.183258" a="-46.1833"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7301.880859 84.622093 7939.529297" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7300.503906 84.622116 7938.198730" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7299.121582 84.622116 7936.872559" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7297.722656 84.622124 7935.533203" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7296.328125 84.624557 7934.187500" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7294.952148 84.624557 7932.864746" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7293.550781 84.624565 7931.521973" rpy="-0.000000 -0.000000 136.183716" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7312.976074 84.524361 7950.178711" rpy="-0.000000 -0.000000 136.183701" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7311.594727 84.524361 7948.855469" rpy="-0.000000 -0.000000 136.183701" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7314.374512 84.524338 7951.519043" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7292.259766 84.650917 7930.189941" rpy="-1.500000 0.000000 136.183960" a="-46.184"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7290.854492 84.664291 7928.845215" rpy="-0.000000 -0.000000 136.183701" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7289.500488 84.691658 7927.500488" rpy="-1.500000 0.000000 136.183945" a="-46.1839"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7288.095215 84.705032 7926.155762" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7290.308105 84.696533 7924.425781" rpy="-0.000000 -0.000000 51.092220" a="38.9078"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7291.484863 84.696533 7922.903809" rpy="-0.000000 -0.000000 51.092220" a="38.9078"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7292.607422 84.696533 7921.496094" rpy="-0.000000 -0.000000 51.092220" a="38.9078"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7288.026367 84.690018 7925.917480" rpy="-0.000000 -0.000000 144.016434" a="-54.0164"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7317.178711 84.498085 7954.182129" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7315.780273 84.518127 7952.841797" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7318.556641 84.486588 7955.539063" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7319.847168 84.478462 7951.382813" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7318.448730 84.478485 7950.042480" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7321.225098 84.466965 7952.739746" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7322.141113 84.489571 7948.934570" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7320.742676 84.489594 7947.594238" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7323.519043 84.478073 7950.291504" rpy="-0.000000 -0.000000 136.183685" a="-46.1837"/>
+	<group name="Land_Wreck_Lada_Green" pos="7281.512695 85.523453 7930.276367" rpy="0.000000 1.299920 -72.287033" a="162.287"/>
+	<group name="Land_Wreck_S1023_Blue" pos="7285.348633 85.755890 7930.548828" rpy="-0.000000 -0.000000 62.999973" a="27"/>
+	<group name="bldr_wall_indfnc_9" pos="7310.405273 85.219269 7958.036133" rpy="0.000000 0.000000 135.915314" a="-45.9153"/>
+	<group name="bldr_wall_indfnc_9" pos="7303.940430 85.323868 7951.802246" rpy="0.000000 0.000000 135.915176" a="-45.9152"/>
+	<group name="bldr_wall_indfnc_9" pos="7297.458984 85.306473 7945.573242" rpy="0.000000 0.000000 135.915176" a="-45.9152"/>
+	<group name="bldr_wall_indfnc_9" pos="7290.936035 85.306854 7939.481934" rpy="0.000000 0.000000 137.447311" a="-47.4473"/>
+	<group name="bldr_wall_indfnc_pole" pos="7288.049805 85.020950 7936.748047" rpy="0.000000 0.000000 128.447388" a="-38.4474"/>
+	<group name="Wreck_Mi8" pos="7305.470215 87.222099 8036.790039" rpy="1.500000 0.000000 0.000000" a="90"/>
+	<group name="Land_Wreck_V3S" pos="7278.466797 86.091217 8012.698730" rpy="-0.000000 -0.000000 44.999981" a="45"/>
+	<group name="Land_Wreck_offroad02_aban1" pos="7305.788574 86.234184 7995.398438" rpy="0.000000 0.000000 -9.000099" a="99.0001"/>
+	<group name="Land_Wreck_Trailer_Closed" pos="7298.240234 85.470551 8000.422363" rpy="-0.000000 0.000000 135.000015" a="-45"/>
+	<group name="StaticObj_Misc_WoodenCrate_3x" pos="7299.234863 86.072891 7999.339844" rpy="-0.000000 -0.000000 43.199986" a="46.8"/>
+	<group name="StaticObj_Misc_WoodenCrate" pos="7298.147461 85.988434 8000.384766" rpy="0.000000 -24.499994 -45.000000" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7293.798828 84.352745 8017.843262" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7296.617188 84.351067 8015.193359" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7299.419922 84.354202 8012.560059" rpy="0.000000 0.000000 -46.799995" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7310.664551 84.359558 8002.014160" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7302.242676 84.354996 8009.930664" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7305.044434 84.358116 8007.297363" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.862793 84.356438 8004.647461" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7313.321777 84.354546 8000.859375" rpy="0.000000 0.000000 -137.216095" a="-132.784"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7315.955566 84.354538 8003.706543" rpy="0.000000 0.000000 -137.216095" a="-132.784"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7318.578613 84.344528 8006.541504" rpy="0.000000 0.000000 -137.216095" a="-132.784"/>
+	<group name="Land_Wreck_Uaz" pos="7286.006836 85.591782 7948.297852" rpy="-0.000000 -0.000000 89.999954" a="4.57764e-05"/>
+	<group name="Land_Wreck_S1023_Beige" pos="7287.495605 85.428268 7968.885742" rpy="-0.000000 0.000000 -161.999832" a="-108"/>
+	<group name="Land_Wreck_S1023_Blue" pos="7258.739746 85.618179 7966.482422" rpy="-0.000000 0.000000 134.999878" a="-44.9999"/>
+	<group name="Land_Wreck_Ikarus" pos="7255.846680 86.104584 7915.716309" rpy="0.000000 0.000000 -41.400047" a="131.4"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7280.363281 84.809738 7954.350586" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7281.089844 84.820137 7953.626953" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7283.562988 84.833862 7953.704102" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7286.644531 84.906975 7948.391602" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7285.647949 84.900513 7948.826172" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7285.911133 84.902206 7949.703125" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7282.191895 84.837654 7952.830566" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7304.727539 84.577919 7979.472168" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7305.771973 84.587364 7979.103516" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7305.474121 84.571861 7979.708008" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7304.948242 84.547554 7980.657715" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7305.012207 84.541801 7980.882813" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7304.583984 84.559540 7980.188965" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7306.771484 84.571312 7979.565918" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_sign_danger" pos="7247.291016 85.109314 7929.251953" rpy="-0.000000 -0.000000 35.999977" a="54"/>
+	<group name="Land_wreck_truck01_aban1_green" pos="7279.283691 84.587418 7962.676270" rpy="-0.000000 0.000000 -131.399902" a="-138.6"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7245.090820 84.825470 7958.016113" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7244.812988 84.824631 7958.189453" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7244.202148 84.828232 7957.439453" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7243.987305 84.825073 7958.097168" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7243.717285 84.825287 7958.044922" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7243.559082 84.830986 7956.854492" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7236.539551 84.803978 7948.700195" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7236.305176 84.803902 7948.868164" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7235.456543 84.803902 7947.580566" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7235.892090 84.803955 7947.638184" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7236.017090 84.803909 7948.257324" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7235.614746 84.803970 7948.920898" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7235.353516 84.803963 7948.733398" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7234.836426 84.803947 7948.212891" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7234.735840 84.803947 7947.049316" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7234.978027 86.580643 7948.549805" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_WoodenCrate_5x" pos="7295.518555 85.414009 7997.916992" rpy="0.000000 0.000000 -44.999981" a="135"/>
+	<group name="StaticObj_Misc_WoodenCrate_3x" pos="7294.426758 85.161049 7996.727539" rpy="0.000000 0.000000 -44.999973" a="135"/>
+	<group name="bldr_Misc_WoodenCrate" pos="7295.888184 84.798149 7996.598633" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_sign_speed20" pos="7219.850098 85.383209 7947.335449" rpy="-0.000000 -0.000000 53.999863" a="36.0001"/>
+	<group name="bldr_sign_speed20" pos="7339.022949 85.010635 7946.543945" rpy="0.000000 0.000000 -45.000050" a="135"/>
+	<group name="bldr_sign_danger" pos="7249.579102 85.142265 7927.126465" rpy="-0.000000 -0.000000 43.699501" a="46.3005"/>
+	<group name="land_misc_barel_fire_2" pos="7271.824219 90.398224 7986.586914" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7260.407227 93.153259 7980.159180" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7255.240723 84.832008 7962.789063" rpy="0.000000 0.000000 -9.000000" a="99"/>
+	<group name="land_misc_barel_fire_2" pos="7257.132813 88.670433 7955.270508" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7278.926270 88.976982 7912.108887" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7306.786621 88.770706 7932.578125" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7316.257324 98.513000 7984.510742" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7336.828125 90.226006 7968.713867" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7279.720215 89.028168 7972.458984" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7324.787109 84.830727 8007.249512" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7272.070801 84.905190 7966.088867" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7271.162598 84.911209 7966.280273" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7271.833008 84.909439 7966.042480" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7272.645996 84.929977 7964.815918" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7272.549805 84.866676 7967.355957" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7272.089355 84.879166 7967.095703" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7272.490723 84.912735 7965.584473" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7272.797363 84.929604 7964.772949" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.475098 84.935158 7964.217773" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.521484 84.938423 7964.067383" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.026367 84.884628 7966.415527" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.081055 84.884598 7966.388672" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.702637 84.891869 7965.794434" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.264648 84.884399 7965.805176" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7272.458984 85.786949 7965.914063" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7271.582520 85.789536 7966.250977" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="Land_wreck_truck01_aban1_orange_DE" pos="7243.696289 84.529495 7963.594727" rpy="-0.000000 0.000000 -143.999893" a="-126"/>
+	<group name="StaticObj_Roadblock_CncBlock" pos="7183.006348 86.080582 7952.729980" rpy="-0.000000 -0.000000 18.000000" a="72"/>
+	<group name="StaticObj_Roadblock_Wood_Small" pos="7182.171387 86.295662 7952.963867" rpy="0.000000 0.000000 -70.199951" a="160.2"/>
+	<group name="StaticObj_Wreck_HMMWV_DE" pos="7186.430176 86.752571 7951.990234" rpy="-3.000000 -2.499999 35.999985" a="54"/>
+	<group name="StaticObj_Roadblock_CncBlock" pos="7317.149902 87.566811 7848.819824" rpy="-7.500000 0.000000 -118.373985" a="-151.626"/>
+	<group name="StaticObj_Roadblock_Wood_Small" pos="7317.587891 87.703049 7848.074707" rpy="0.000000 0.000000 153.425568" a="-63.4256"/>
+	<group name="Land_Wreck_hb01_aban1_police" pos="7315.479980 88.574043 7851.109863" rpy="0.000000 5.499997 0.000000" a="90"/>
+	<group name="Land_Wreck_S1023_Beige" pos="7298.041504 85.382240 8010.911621" rpy="-0.000000 0.000000 135.000092" a="-45.0001"/>
+	<group name="Land_Wreck_sed01_aban2_white" pos="7254.541504 85.307175 7975.514160" rpy="-0.000000 0.000000 133.199890" a="-43.1999"/>
+	<group name="bldr_container_1d" pos="7287.947754 86.023079 7939.240234" rpy="-0.000000 -0.000000 44.999981" a="45"/>
+	<group name="bldr_container_1d" pos="7286.161621 86.016273 7940.998535" rpy="-0.000000 -0.000000 44.999981" a="45"/>
+	<group name="Land_Container_1Mo" pos="7289.394043 85.521362 8025.439941" rpy="-0.000000 0.000000 -136.800064" a="-133.2"/>
+	<group name="Land_Container_1Mo" pos="7286.772949 85.580162 8027.544922" rpy="-0.000000 0.000000 -136.800064" a="-133.2"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7295.109863 84.357201 8019.194824" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7297.928223 84.355522 8016.544922" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_container_1d" pos="7296.065430 85.726982 8017.603027" rpy="0.000000 0.000000 -46.799984" a="136.8"/>
+	<group name="bldr_container_1d" pos="7293.699707 85.993492 7944.309570" rpy="-0.000000 0.000000 -134.999863" a="-135"/>
+	<group name="bldr_container_1c" pos="7259.506348 85.742607 7992.363770" rpy="-0.000000 -0.000000 43.199993" a="46.8"/>
+	<group name="StaticObj_Container_1C" pos="7254.857910 85.775284 7987.389648" rpy="-0.000000 -0.000000 43.199993" a="46.8"/>
+	<group name="bldr_misc_pallet" pos="7265.671387 98.845039 7973.627930" rpy="0.000000 0.000000 -44.999969" a="135"/>
+	<group name="bldr_misc_pallet" pos="7264.629883 98.910057 7974.640137" rpy="0.000000 4.999999 -45.000000" a="135"/>
+	<group name="StaticObj_Misc_Pallet" pos="7266.589844 98.588364 7972.459961" rpy="0.000000 23.499996 -45.000000" a="135"/>
+	<group name="StaticObj_Misc_Pallet" pos="7263.527344 98.725983 7975.598145" rpy="0.000000 22.425869 132.609955" a="-42.61"/>
+	<group name="bldr_misc_pallet" pos="7281.000488 89.680214 7979.340820" rpy="0.000000 0.000000 -136.845001" a="-133.155"/>
+	<group name="bldr_misc_pallet" pos="7280.022461 89.745232 7978.266602" rpy="0.000000 4.999831 -136.845001" a="-133.155"/>
+	<group name="StaticObj_Misc_Pallet" pos="7281.971680 89.423500 7980.360840" rpy="0.000000 16.499495 -136.844971" a="-133.155"/>
+	<group name="StaticObj_Misc_Pallet" pos="7279.100586 89.561157 7977.133789" rpy="0.000000 22.410353 40.764324" a="49.2357"/>
+	<group name="bldr_misc_pallet" pos="7277.890137 89.027565 7976.790039" rpy="0.000000 7.499994 0.000000" a="90"/>
+	<group name="bldr_misc_pallets3" pos="7280.174316 85.655403 7918.953125" rpy="0.000000 0.000000 -41.399979" a="131.4"/>
+	<group name="StaticObj_Misc_Pallets1" pos="7281.250488 85.246674 7920.104492" rpy="-0.000000 -0.000000 37.799988" a="52.2"/>
+	<group name="bldr_misc_concreteblock2_damaged" pos="7281.013672 85.279144 7933.233887" rpy="0.000000 0.000000 45.000000" a="45"/>
+	<group name="bldr_misc_concreteblock2_damaged" pos="7284.821289 85.198479 7933.465332" rpy="0.000000 0.000000 -44.337933" a="134.338"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7318.527832 85.551788 8036.124512" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7317.652832 84.492279 8034.683105" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7337.050293 85.591797 7989.086426" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7367.307129 85.596306 7984.672363" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="land_misc_barel_fire_2" pos="7333.871582 89.778206 8001.013184" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="Land_City_Hospital" pos="7256.830078 92.084702 7953.501953" rpy="-0.000000 -0.000000 -46.088299" a="136.088"/>
+	<group name="Land_Garage_Row_Small" pos="7253.918457 86.183876 7964.215820" rpy="0.000000 0.000000 -46.799984" a="136.8"/>
+	<group name="StaticObj_Misc_Pallet" pos="7249.660156 88.476303 7956.450195" rpy="-2.000000 -9.999993 -137.564926" a="-132.435"/>
+	<group name="Land_Shed_Closed_Small1" pos="7236.997070 85.908081 7964.348145" rpy="-0.000000 0.000000 131.399902" a="-41.3999"/>
+	<group name="bldr_tank_small_rusty" pos="7230.476563 85.964088 7958.418945" rpy="-0.000000 0.000000 133.200012" a="-43.2"/>
+	<group name="bldr_misc_concreteblock2_damaged" pos="7226.286621 84.953720 7946.870117" rpy="0.000000 0.000000 45.000000" a="45"/>
+	<group name="StaticObj_Misc_ConcretePanels" pos="7239.814453 85.318542 7970.297363" rpy="0.000000 0.000000 -50.399994" a="140.4"/>
+	<group name="StaticObj_Misc_ConcreteBlock2" pos="7238.045898 84.983269 7972.783203" rpy="-0.000000 0.000000 133.199890" a="-43.1999"/>
+	<group name="StaticObj_Misc_ConcreteBlock2" pos="7240.669922 84.911850 7975.450195" rpy="0.000000 0.000000 -46.799992" a="136.8"/>
+	<group name="StaticObj_Misc_ConcreteBlock2" pos="7242.977051 84.903778 7977.963379" rpy="0.000000 0.000000 -46.799992" a="136.8"/>
+	<group name="bldr_misc_concretepipe" pos="7241.559082 85.790596 7972.978027" rpy="-0.000000 -0.000000 35.999996" a="54"/>
+	<group name="StaticObj_Misc_ConcreteBlock1" pos="7242.390625 84.813324 7972.290527" rpy="-0.000000 -0.000000 35.999973" a="54"/>
+	<group name="StaticObj_Misc_ConcreteBlock1" pos="7240.809082 84.804970 7973.782227" rpy="-0.000000 -0.000000 35.999973" a="54"/>
+	<group name="Land_Office2" pos="7272.507813 93.064629 7996.639648" rpy="-0.000000 0.000000 133.200012" a="-43.2"/>
+	<group name="Land_City_Store" pos="7291.676758 85.712784 7988.362305" rpy="-0.000000 0.000000 133.200012" a="-43.2"/>
+	<group name="Land_City_Hospital" pos="7277.077637 92.385414 7912.525391" rpy="-0.000000 -0.000000 46.799992" a="43.2"/>
+	<group name="Land_Wall_Gate_FenG_Big" pos="7302.212891 85.741135 7899.543945" rpy="0.000000 0.000000 -59.399975" a="149.4"/>
+	<group name="Land_Wall_Gate_FenG_Big_L" pos="7303.966797 85.811905 7902.546875" rpy="0.000000 0.000000 -59.399975" a="149.4"/>
+	<group name="StaticObj_Wall_IndCnc_4" pos="7332.330566 85.318398 7941.104004" rpy="0.000000 0.000000 141.048798" a="-51.0488"/>
+	<group name="bldr_misc_concreteblock2_stripes" pos="7336.595703 84.894402 7944.821289" rpy="0.000000 0.000000 -39.599979" a="129.6"/>
+	<group name="Land_Medical_Tent_Shower" pos="7250.724121 86.293709 7930.618164" rpy="0.000000 0.000000 -46.799984" a="136.8"/>
+	<group name="bldr_misc_barbedwire" pos="7253.068359 85.537697 7925.604980" rpy="-0.000000 -0.000000 -157.184235" a="-112.816"/>
+	<group name="bldr_misc_barbedwire" pos="7244.405762 85.415215 7931.933594" rpy="-0.000000 0.000000 -143.999893" a="-126"/>
+	<group name="Land_City_Hospital" pos="7307.339844 92.173103 7934.399902" rpy="0.000000 0.000000 137.103958" a="-47.104"/>
+	<group name="bldr_wall_indfnc_9" pos="7283.965332 85.282883 7961.037598" rpy="0.000000 0.000000 -46.510555" a="136.511"/>
+	<group name="bldr_wall_indfnc_9" pos="7290.161621 85.290779 7967.539551" rpy="0.000000 0.000000 -46.510555" a="136.511"/>
+	<group name="bldr_wall_indfnc_9" pos="7302.571289 85.250877 7980.538574" rpy="0.000000 0.000000 -46.510555" a="136.511"/>
+	<group name="bldr_wall_indfnc_9" pos="7296.373047 85.242981 7974.037598" rpy="0.000000 0.000000 -46.510616" a="136.511"/>
+	<group name="bldr_wall_indfnc_pole" pos="7305.260742 85.239182 7983.464844" rpy="0.000000 0.000000 -55.510593" a="145.511"/>
+	<group name="Land_Office2" pos="7326.734375 92.991257 7969.461426" rpy="-0.000000 -0.000000 44.999981" a="45"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7289.669922 84.409729 8000.649902" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7287.060059 84.408745 7997.781250" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7284.368652 84.417778 7995.001465" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7281.758789 84.416794 7992.132813" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7279.083496 84.420235 7989.342285" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7276.473633 84.419250 7986.473633" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7292.308594 84.406563 8003.487305" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7294.242676 84.401474 8005.541992" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7292.862793 84.396599 8009.514648" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7294.876465 84.401588 8007.645020" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="Land_Medical_Tent_Big" pos="7287.908691 84.680687 7955.902344" rpy="0.000000 0.399991 -135.992645" a="-134.007"/>
+	<group name="Land_Medical_Tent_Big" pos="7293.381348 84.682938 7961.772461" rpy="0.000000 0.000000 -135.992645" a="-134.007"/>
+	<group name="Land_Medical_Tent_Big" pos="7299.001465 84.601402 7967.545898" rpy="0.000000 1.899978 -135.992645" a="-134.007"/>
+	<group name="Land_Medical_Tent_Big" pos="7304.479492 84.530136 7973.409668" rpy="0.000000 0.000000 -135.492279" a="-134.508"/>
+	<group name="bldr_misc_concretepanels" pos="7281.666016 85.343117 7954.888184" rpy="-0.000000 0.000000 132.800949" a="-42.8009"/>
+	<group name="bldr_misc_concretepipe" pos="7284.330078 85.884659 7951.680176" rpy="0.000000 0.500000 -45.000000" a="135"/>
+	<group name="bldr_misc_concreteblock1" pos="7283.600098 84.933907 7950.853516" rpy="0.000000 0.000000 -44.999981" a="135"/>
+	<group name="bldr_misc_concreteblock1" pos="7285.083984 84.919670 7952.450684" rpy="0.000000 0.000000 -44.999981" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7313.741699 84.346985 7989.529297" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7315.052246 84.346977 7990.921387" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7311.024902 84.347023 7988.109863" rpy="0.000000 0.000000 44.443199" a="45.5568"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7312.383301 84.347008 7986.776367" rpy="0.000000 0.000000 44.443199" a="45.5568"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7309.750000 84.346977 7985.396484" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7308.443359 84.346985 7983.996582" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7315.729492 84.344467 7991.669922" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7308.583008 84.345581 7980.730469" rpy="0.000000 0.000000 -44.999969" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.834473 84.341995 7983.015137" rpy="-0.000000 0.000000 111.599991" a="-21.6"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.829590 84.341064 7983.033203" rpy="-0.000000 0.000000 -120.599907" a="-149.4"/>
+	<group name="StaticObj_Roads_Partgrav_15_75" pos="7323.875488 87.950165 7988.807617" rpy="0.000000 0.000000 -55.799973" a="145.8"/>
+	<group name="StaticObj_Roads_Partgrav_30_25" pos="7336.783691 87.246666 7979.961914" rpy="0.000000 0.000000 -86.399956" a="176.4"/>
+	<group name="StaticObj_Roads_Partgrav_30_25" pos="7347.340332 90.110191 7979.151855" rpy="0.000000 0.000000 -122.214470" a="-147.786"/>
+	<group name="StaticObj_Roads_Partgrav_0_2000" pos="7360.241211 87.314407 7986.633789" rpy="-0.000000 -0.000000 52.199970" a="37.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7288.167969 84.389999 8013.891602" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7285.545898 84.382484 8016.354004" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7283.068848 84.374413 8018.689941" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7284.229980 84.387276 8014.961426" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7281.752930 84.379204 8017.297363" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7282.905762 84.393234 8013.536133" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7280.428711 84.385162 8015.872070" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7281.589844 84.398026 8012.143555" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7279.112793 84.389954 8014.479492" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7277.626465 84.412483 8007.908203" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7275.149414 84.404411 8010.244141" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7276.310547 84.417274 8006.515625" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7273.833496 84.409203 8008.851563" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7280.266602 84.401733 8010.726074" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7277.789551 84.393661 8013.062012" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7278.950684 84.406525 8009.333496" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7276.473633 84.398453 8011.669434" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7272.353027 84.426933 8002.294922" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7269.875977 84.418861 8004.630859" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7274.993164 84.416183 8005.112793" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7272.516113 84.408112 8007.448730" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7273.668945 84.422142 8003.687500" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7271.191895 84.414070 8006.023438" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7262.321777 84.425362 7991.579102" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7259.844727 84.417290 7993.915039" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7258.364258 84.435020 7987.358398" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7255.887207 84.426949 7989.694336" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7261.004395 84.424271 7990.176270" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7258.527344 84.416199 7992.512207" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7259.680176 84.430229 7988.750977" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7257.203125 84.422157 7991.086914" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7263.637695 84.420570 7992.971680" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7261.160645 84.412498 7995.307617" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7254.409668 84.460472 7983.123047" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7251.932617 84.452400 7985.458984" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7257.049805 84.449722 7985.940918" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7254.572754 84.441650 7988.276855" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7255.725586 84.455681 7984.515625" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7253.248535 84.447609 7986.851563" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7256.807129 84.472694 7978.897949" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7254.040039 84.469597 7981.500000" rpy="0.000000 -0.300000 -46.799980" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7252.185059 84.449585 7983.263184" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7251.895996 84.451736 7985.334473" rpy="0.000000 0.000000 83.577888" a="6.42211"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7251.922363 84.446152 7985.046387" rpy="0.000000 0.000000 83.153610" a="6.84639"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7259.342285 84.473770 7976.519531" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7258.035645 84.474159 7975.131836" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7255.252441 84.471497 7977.773438" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7252.424805 84.469101 7980.418945" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7251.140137 84.455101 7983.060059" rpy="0.000000 -0.399993 -6.345256" a="96.3453"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7316.669922 87.932236 7990.670898" rpy="0.000000 0.000000 169.570358" a="-79.5704"/>
+	<group name="bldr_Decal_dirt_damage_long1" pos="7317.697754 86.151436 7993.922363" rpy="0.000000 0.000000 -43.199966" a="133.2"/>
+	<group name="bldr_Decal_dirt_rocks1" pos="7316.578613 85.437294 7994.207031" rpy="-0.000000 -0.000000 18.000000" a="72"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7269.880859 84.884026 7909.036133" rpy="0.000000 0.000000 -133.746536" a="-136.253"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7271.201172 84.888817 7907.649902" rpy="0.000000 0.000000 -133.746399" a="-136.254"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7272.554199 84.894775 7906.252441" rpy="0.000000 0.000000 -133.746536" a="-136.253"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7265.885742 84.869720 7913.207520" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7267.204102 84.874512 7911.815918" rpy="0.000000 0.000000 -133.611435" a="-136.389"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7268.552734 84.880470 7910.415039" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7277.889160 84.902573 7900.693359" rpy="0.000000 0.000000 -133.746536" a="-136.253"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7279.209473 84.907364 7899.307129" rpy="0.000000 0.000000 -133.746399" a="-136.254"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7280.560059 84.913300 7897.910156" rpy="1.000000 0.000000 -133.746933" a="-136.253"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7273.894043 84.888268 7904.864746" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7275.212402 84.893059 7903.473145" rpy="0.000000 0.000000 -133.611435" a="-136.389"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7276.561035 84.899017 7902.072266" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7263.234863 84.856834 7915.983398" rpy="0.000000 0.000000 -133.746536" a="-136.253"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7264.555176 84.861626 7914.597168" rpy="0.000000 0.000000 -133.746399" a="-136.254"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7259.239746 84.825012 7920.154785" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7260.558105 84.832306 7918.763184" rpy="0.000000 0.000000 -133.611435" a="-136.389"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7261.906738 84.853279 7917.362305" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7257.933594 84.808815 7921.541992" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7262.034180 84.810196 7922.816895" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7260.728027 84.809013 7924.204102" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7263.384277 84.818687 7925.350586" rpy="0.000000 0.000000 -41.859474" a="131.859"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7281.910156 84.947098 7896.520020" rpy="0.500000 0.999987 -133.746002" a="-136.254"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7283.259766 84.972923 7895.129883" rpy="1.500000 1.499999 -133.746933" a="-136.253"/>
+	<group name="StaticObj_Wall_IndCnc_4" pos="7284.478516 85.807655 7894.715820" rpy="-0.000000 0.000000 142.199921" a="-52.1999"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7284.109863 84.952103 7895.680176" rpy="1.500000 0.999946 -126.991982" a="-143.008"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7264.660156 84.860291 7920.048828" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7263.354004 84.836586 7921.436035" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7268.644531 84.869720 7915.896484" rpy="0.000000 0.000000 -133.611572" a="-136.388"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7265.993652 84.856834 7918.672363" rpy="0.000000 0.000000 -133.746536" a="-136.253"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7267.313965 84.861626 7917.286133" rpy="0.000000 0.000000 -133.746399" a="-136.254"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7262.879395 84.636391 7950.259766" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7261.547852 84.640121 7948.854492" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7260.214355 84.636391 7947.454102" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7258.882813 84.640121 7946.048828" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7257.567383 84.636383 7944.649414" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7256.235840 84.640114 7943.244141" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7254.902344 84.636383 7941.843750" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7253.570801 84.640114 7940.438477" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7252.348633 84.640121 7939.098145" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7251.015137 84.636391 7937.697754" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7249.683594 84.640121 7936.292480" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7272.180176 84.584503 7960.069824" rpy="0.000000 0.000000 -46.577286" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7270.848145 84.576988 7958.667480" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7269.514648 84.589958 7957.267090" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7268.183105 84.581879 7955.861816" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7266.867676 84.605850 7954.462402" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7265.536133 84.611664 7953.057129" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7264.202637 84.625877 7951.656738" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7273.485352 84.569618 7961.465820" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7303.140137 84.348106 7990.330078" rpy="0.000000 0.000000 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7300.491211 84.340927 7987.509766" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7297.835449 84.340935 7984.688965" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7295.183105 84.340927 7981.868652" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7292.529785 84.381500 7979.040039" rpy="0.000000 -0.500000 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7289.875488 84.400826 7976.222168" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7287.219727 84.392548 7973.401367" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7284.567383 84.400124 7970.581055" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7279.350098 84.433098 7965.040039" rpy="0.000000 -0.999999 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7282.000000 84.402969 7967.856445" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7276.790039 84.515099 7962.330078" rpy="-0.500000 -1.999999 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7274.009766 84.564003 7960.250000" rpy="-1.000000 0.000000 63.312496" a="26.6875"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7294.388184 84.406540 8002.891602" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7296.322266 84.401451 8004.946289" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7295.790039 84.406548 8001.560059" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7297.724121 84.401459 8003.614746" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7297.181152 84.406540 8000.263184" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7299.115234 84.401451 8002.317871" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7298.583008 84.406548 7998.931641" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7300.517090 84.401459 8000.986328" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7299.990234 84.406540 7997.618164" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7301.924316 84.401451 7999.672852" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7301.392090 84.406548 7996.286621" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7303.326172 84.401459 7998.341309" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7302.783203 84.406540 7994.989746" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7304.717285 84.401451 7997.044434" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7304.189941 84.391098 7993.660156" rpy="1.000000 0.000000 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7306.119141 84.401459 7995.712891" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_2" pos="7305.319824 84.375221 7992.580078" rpy="0.000000 0.500000 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.258301 84.401459 7994.633301" rpy="-0.000000 -0.000000 43.199963" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7311.319824 84.356102 7978.009766" rpy="0.000000 -0.500000 -45.000000" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7314.105469 84.395439 7975.382813" rpy="0.000000 -0.500000 -45.000000" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7316.704102 84.427956 7972.786133" rpy="0.000000 -0.500000 -45.000000" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7319.464844 84.446533 7970.038086" rpy="0.000000 0.000000 -44.999992" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7321.946777 84.430244 7967.534668" rpy="0.000000 0.000000 -44.999992" a="135"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7248.415527 84.641602 7934.947754" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7245.604004 84.643723 7937.602051" rpy="-0.000000 -0.000000 -46.577347" a="136.577"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7255.482910 84.872368 7923.916016" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7255.506348 84.872368 7923.606445" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7255.625488 84.872375 7923.626465" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7255.857422 84.872368 7923.707031" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7255.018555 84.872368 7923.866699" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7255.386719 84.872368 7923.445801" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7243.703125 84.782135 7937.228516" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7243.196289 84.779694 7936.989258" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7243.443848 84.780922 7936.511230" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteShort_summer" pos="7244.308105 84.790405 7936.383789" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7275.206543 84.411758 7983.681152" rpy="0.000000 0.000000 -46.799980" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7277.876953 84.411690 7981.172852" rpy="0.000000 0.000000 -46.799980" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7280.655762 84.411247 7978.551758" rpy="0.000000 0.000000 -46.799980" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7283.326172 84.411179 7976.043457" rpy="0.000000 0.000000 -46.799980" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7286.009766 84.400742 7974.850098" rpy="0.500000 0.000000 43.340302" a="46.6597"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7317.676270 89.219421 7961.335449" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7309.306152 90.696320 7953.125488" rpy="-0.000000 0.000000 44.803913" a="45.1961"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7296.919434 90.856308 7940.917480" rpy="-0.000000 0.000000 44.803913" a="45.1961"/>
+	<group name="StaticObj_Roads_Partasf3_0_2000" pos="7297.178711 91.581474 7907.829590" rpy="0.000000 0.000000 -39.599998" a="129.6"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7286.575195 91.010193 7922.013184" rpy="0.000000 0.000000 -37.799988" a="127.8"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7289.498047 90.897102 7933.890137" rpy="-0.000000 0.000000 44.803913" a="45.1961"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7275.403320 91.034958 7934.687012" rpy="0.000000 0.000000 136.140472" a="-46.1405"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7268.427734 88.070686 7941.994629" rpy="-0.000000 0.000000 135.000000" a="-45"/>
+	<group name="StaticObj_Roads_Partasf3_6konec" pos="7304.533203 88.239166 7899.275391" rpy="0.000000 0.000000 -44.999969" a="135"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7281.885742 86.540985 7926.859863" rpy="0.000000 0.000000 -35.999981" a="126"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7285.987793 88.166260 7922.189941" rpy="0.000000 0.000000 -35.999981" a="126"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7288.746582 88.261292 7918.630859" rpy="0.000000 0.000000 -35.999981" a="126"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7291.929199 88.199661 7914.123535" rpy="0.000000 0.000000 -35.999981" a="126"/>
+	<group name="StaticObj_Roads_Partasf3_0_2000" pos="7325.590332 87.562096 7954.732422" rpy="0.000000 0.000000 -44.999969" a="135"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7333.310059 86.186249 7946.971680" rpy="0.000000 0.000000 -44.999992" a="135"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7334.251465 87.842499 7946.114746" rpy="0.000000 0.000000 -44.999992" a="135"/>
+	<group name="bldr_Decal_dirt_damage_long1" pos="7334.845215 86.311363 7945.336426" rpy="0.000000 0.000000 -44.999992" a="135"/>
+	<group name="bldr_Decal_dirt_damage_long2" pos="7337.011719 86.311356 7944.176758" rpy="-0.000000 0.000000 -143.999985" a="-126"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7253.681641 90.876289 7933.946289" rpy="0.000000 0.000000 -137.080170" a="-132.92"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7265.618164 90.876297 7946.573730" rpy="0.000000 0.000000 -137.080170" a="-132.92"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7289.812012 90.584999 7971.410645" rpy="0.000000 0.000000 -137.079956" a="-132.92"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7277.749512 90.786263 7958.891113" rpy="0.000000 0.000000 43.367184" a="46.6328"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7301.977539 90.536301 7983.931641" rpy="0.000000 0.000000 -137.079956" a="-132.92"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7313.943359 90.536308 7996.488281" rpy="0.000000 0.000000 -137.079956" a="-132.92"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7320.819336 87.682495 8003.687500" rpy="-0.000000 0.000000 40.419590" a="49.5804"/>
+	<group name="bldr_Decal_dirt_damage_long2" pos="7316.356445 86.151360 7995.234863" rpy="-0.000000 -0.000000 35.999973" a="54"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7316.997559 86.151382 7993.952148" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="bldr_Decal_dirt_damage_long1" pos="7324.763672 87.932236 7982.850586" rpy="0.000000 0.000000 -43.199966" a="133.2"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7304.416992 90.536270 8002.736816" rpy="0.000000 0.000000 -47.667763" a="137.668"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7291.668945 90.529602 8014.567383" rpy="0.000000 0.000000 -47.667763" a="137.668"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7274.348633 90.525406 8015.883789" rpy="0.000000 0.000000 42.427841" a="47.5722"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7262.531250 90.556198 8003.174316" rpy="0.000000 0.000000 43.529251" a="46.4707"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7250.470215 90.626198 7990.709961" rpy="0.000000 0.000000 41.833298" a="48.1667"/>
+	<group name="StaticObj_Roads_Partasf3_1_1000" pos="7238.671387 90.716911 7977.905762" rpy="0.000000 0.000000 42.391163" a="47.6088"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7231.111816 87.871605 7969.253418" rpy="-0.000000 0.000000 37.118454" a="52.8815"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7227.353516 87.883781 7964.422363" rpy="-0.000000 0.000000 -144.495438" a="-125.505"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7223.769043 87.868523 7959.439453" rpy="-0.000000 0.000000 -145.679504" a="-124.32"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7220.861328 87.859245 7954.140625" rpy="-0.000000 0.000000 -150.332092" a="-119.668"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7217.865234 87.983879 7948.935547" rpy="-0.000000 0.000000 -150.332092" a="-119.668"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7217.103027 88.096649 7948.018555" rpy="0.000000 0.000000 17.319904" a="72.6801"/>
+	<group name="bldr_Decal_dirt_damage_long2" pos="7216.388672 86.803078 7944.630859" rpy="0.000000 0.000000 -80.999954" a="171"/>
+	<group name="bldr_Decal_dirt_damage_long2" pos="7218.515625 86.408386 7945.643555" rpy="-0.000000 0.000000 -107.999939" a="-162"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7215.491211 86.766937 7949.004883" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_Decal_dirt_damage_long1" pos="7248.517090 86.470001 7928.981934" rpy="0.000000 0.000000 -53.999985" a="144"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7250.000000 86.491295 7929.780762" rpy="-0.000000 -0.000000 18.000000" a="72"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7285.991699 87.662498 8020.228516" rpy="-0.000000 0.000000 131.162048" a="-41.162"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7282.109863 87.662521 8023.849609" rpy="-0.000000 0.000000 132.447174" a="-42.4472"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7247.496094 87.835579 7982.570801" rpy="-0.000000 0.000000 171.373764" a="-81.3738"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7247.514160 87.866013 7977.026367" rpy="-0.000000 0.000000 -176.956360" a="-93.0436"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7246.603516 87.887276 7971.917969" rpy="-0.000000 0.000000 -157.729843" a="-112.27"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7244.129395 87.904320 7966.690918" rpy="-0.000000 0.000000 -150.332092" a="-119.668"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7241.205078 87.903160 7962.361816" rpy="-0.000000 0.000000 -135.688400" a="-134.312"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7236.918457 87.902489 7957.908691" rpy="-0.000000 0.000000 -135.820770" a="-134.179"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7232.695801 87.902496 7953.510254" rpy="-0.000000 0.000000 -135.688400" a="-134.312"/>
+	<group name="StaticObj_Roads_Partasf3_6" pos="7228.409180 87.901825 7949.057129" rpy="-0.000000 0.000000 -135.820770" a="-134.179"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7226.318359 86.347702 7946.503418" rpy="0.000000 0.000000 -27.000000" a="117"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7228.184082 86.356659 7946.081543" rpy="0.000000 0.000000 -27.000000" a="117"/>
+	<group name="bldr_misc_concreteblock2_damaged" pos="7229.248535 84.909431 7945.665527" rpy="0.000000 0.000000 178.410385" a="-88.4104"/>
+	<group name="bldr_misc_concreteblock2_damaged" pos="7225.565918 84.928062 7950.589844" rpy="0.000000 0.000000 -80.437279" a="170.437"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7367.181152 86.151360 7990.588867" rpy="0.000000 0.000000 -18.000000" a="108"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7368.214844 86.151360 7991.750488" rpy="0.000000 0.000000 -46.088787" a="136.089"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7346.774902 86.160713 7975.397949" rpy="0.000000 0.000000 -18.000000" a="108"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7335.925293 86.151360 7981.846680" rpy="0.000000 0.000000 -74.332130" a="164.332"/>
+	<group name="bldr_Decal_dirt_damage_long3" pos="7360.779785 86.151398 7988.529785" rpy="0.000000 0.000000 -130.883759" a="-139.116"/>
+	<group name="bldr_misc_concreteblock2_damaged" pos="7270.890625 85.097534 7944.135254" rpy="0.000000 0.000000 45.000000" a="45"/>
+	<group name="bldr_misc_concreteblock2_damaged" pos="7270.989746 85.070671 7947.438477" rpy="0.000000 0.000000 133.341644" a="-43.3416"/>
+	<group name="land_wrecked_bmp2" pos="7273.490723 85.951820 7947.288086" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_ShellCrater1" pos="7275.029297 84.885864 7945.545898" rpy="-0.000000 0.000000 -121.169533" a="-148.83"/>
+	<group name="StaticObj_ShellCrater1" pos="7274.542480 84.921188 7947.969727" rpy="-0.000000 0.000000 -121.169533" a="-148.83"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7274.123047 86.274399 7945.337402" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7274.249023 86.274414 7947.574707" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7273.044922 86.274376 7948.873047" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7274.432617 87.835777 7948.669922" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="StaticObj_Wreck_Decal_Small2" pos="7273.072754 87.835815 7946.685547" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="Land_Wreck_V3S" pos="7352.830078 85.571289 7981.509766" rpy="-84.999985 0.000000 -89.999794" a="180"/>
+	<group name="Land_Wreck_Lada_Green" pos="7357.631348 85.023651 7983.817383" rpy="-0.000000 -0.000000 63.000000" a="27"/>
+	<group name="Land_Wreck_Uaz" pos="7361.150391 85.223755 7987.968750" rpy="-0.000000 -0.000000 44.999981" a="45"/>
+	<group name="Land_wreck_truck01_aban1_green" pos="7318.838379 84.362152 7997.033203" rpy="-0.000000 0.000000 179.999924" a="-89.9999"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7318.156738 84.426292 7996.618652" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7317.769531 84.426292 7995.931152" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7317.259766 84.426277 7996.225586" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7318.082031 84.426300 7995.115234" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7318.949219 84.426292 7995.733398" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7318.566895 84.426315 7997.229492" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7317.970215 84.426285 7996.425293" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7318.083984 84.426292 7995.377930" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7317.182617 84.426277 7996.238281" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7355.355469 84.426346 7983.000977" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7355.460938 84.426353 7982.898438" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7355.730469 84.426277 7983.079590" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7355.591797 84.426247 7982.747070" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7354.917969 84.426292 7981.295410" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7354.278320 84.426285 7981.340820" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7349.643066 84.427444 7980.528809" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7350.064453 84.427628 7980.422852" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7362.345215 84.426277 7988.191406" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7361.875488 84.426285 7987.630859" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7361.432617 84.426285 7987.581055" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7362.168457 84.426292 7988.270020" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7362.128906 84.426292 7987.743164" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7354.324219 84.426582 7981.068848" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7357.939941 84.426331 7983.340820" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7357.390625 84.426323 7983.294434" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7358.998047 84.426262 7984.255371" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7328.693359 84.431839 7980.382324" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7328.813477 84.436150 7979.711914" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7329.670410 84.440063 7979.097168" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7319.771484 84.426277 7995.346191" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7319.285645 84.426315 7995.049805" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7319.228027 84.426300 7994.555664" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7319.071289 84.426292 7997.938477" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7283.571289 84.733452 7953.312012" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7284.231445 84.700676 7954.508301" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7284.203125 84.717300 7953.969238" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7283.254395 84.728279 7953.529785" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7282.511719 84.640884 7957.159668" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7283.129395 84.734894 7953.016113" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7286.756348 84.784309 7950.958496" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="Land_Construction_House1" pos="7276.905273 87.334763 7973.108398" rpy="-0.000000 0.000000 133.199997" a="-43.2"/>
+	<group name="StaticObj_Furniture_ladder_A_wood" pos="7234.487793 84.582138 7960.919922" rpy="0.000000 0.000000 -53.999985" a="144"/>
+	<group name="StaticObj_Furniture_drapes_long" pos="7238.774902 86.738426 7969.613770" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="StaticObj_Furniture_drapes_long" pos="7239.281738 86.741539 7969.152832" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="StaticObj_Furniture_drapes_long" pos="7231.918457 86.741425 7961.994629" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="StaticObj_Furniture_drapes_long" pos="7232.425293 86.744537 7961.533691" rpy="-0.000000 -0.000000 43.199966" a="46.8"/>
+	<group name="StaticObj_Furniture_shelf_DZ" pos="7233.657715 84.422287 7961.613770" rpy="-0.000000 0.000000 -139.220810" a="-130.779"/>
+	<group name="StaticObj_Furniture_tools_racking_DZ" pos="7231.331055 84.617043 7963.580078" rpy="-0.000000 0.000000 133.199875" a="-43.1999"/>
+	<group name="StaticObj_Furniture_tools_racking_DZ" pos="7232.089355 84.623093 7964.393555" rpy="-0.000000 0.000000 133.199875" a="-43.1999"/>
+	<group name="StaticObj_Misc_BoardsPack2" pos="7238.641113 85.307236 7968.089355" rpy="0.000000 0.000000 -44.999992" a="135"/>
+	<group name="land_misc_barel_fire_2" pos="7232.802734 84.803383 7961.809570" rpy="-0.000000 -0.000000 18.000000" a="72"/>
+	<group name="StaticObj_Furniture_box_c" pos="7235.089355 84.741539 7961.995605" rpy="0.000000 0.000000 -35.999981" a="126"/>
+	<group name="StaticObj_Furniture_box_c" pos="7235.137695 85.315475 7961.858398" rpy="0.000000 0.000000 -56.467968" a="146.468"/>
+	<group name="StaticObj_Furniture_box_c" pos="7235.641113 85.014496 7962.477539" rpy="90.000000 0.000000 -35.999996" a="126"/>
+	<group name="StaticObj_Furniture_workbench_DZ" pos="7234.240234 85.046288 7966.479492" rpy="0.000000 0.000000 -46.799992" a="136.8"/>
+	<group name="StaticObj_Furniture_metalcrate" pos="7233.166504 84.561005 7965.299805" rpy="0.000000 0.000000 -48.599983" a="138.6"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7303.863281 84.354012 8036.995117" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7301.386230 84.345940 8039.331055" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7302.547363 84.358803 8035.602539" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7300.070313 84.350731 8037.938477" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7301.223145 84.364761 8034.177246" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7298.746094 84.356689 8036.513184" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7304.044434 84.356689 8031.526855" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7309.161621 84.354012 8032.008789" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7306.684570 84.345940 8034.344727" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.845703 84.358803 8030.616211" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7305.368652 84.350731 8032.952148" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7306.521484 84.364761 8029.190918" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7302.695801 84.334480 8040.726563" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.994141 84.334480 8035.740234" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7313.111328 84.331802 8036.222168" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7310.634277 84.323730 8038.558105" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7311.795410 84.336594 8034.829590" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7309.318359 84.328522 8037.165527" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7310.471191 84.342552 8033.404297" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7307.812988 84.331802 8041.208496" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7305.335938 84.323730 8043.544434" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7306.497070 84.336594 8039.815918" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7304.020020 84.328522 8042.151855" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7305.172852 84.342552 8038.390625" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7297.432617 84.356628 8035.104004" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7302.730957 84.356628 8030.117676" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7305.208008 84.364700 8027.781738" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7299.909668 84.364700 8032.768066" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="land_sea_oilrig_heliport" pos="7305.072754 82.156349 8035.556152" rpy="0.000000 0.000000 -46.799992" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7297.589844 84.503471 8027.500000" rpy="-13.500000 0.000000 -46.799992" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7296.279785 84.300301 8026.100098" rpy="1.000000 0.000000 -46.799992" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7294.952148 84.331329 8024.679199" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7293.636230 84.336121 8023.286621" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7292.312988 84.339828 8021.869141" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7290.997070 84.344620 8020.476563" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7298.858887 84.951103 8028.859375" rpy="-13.500000 0.000000 -46.799992" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7300.179688 85.159645 8030.215332" rpy="0.000000 0.000000 -46.799969" a="136.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7299.511230 83.774651 8026.824707" rpy="90.000000 13.000000 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7297.015625 83.807182 8029.618164" rpy="90.000000 13.000000 43.199993" a="46.8"/>
+	<group name="bldr_Panel_Concrete_Small_1" pos="7299.274414 84.192787 8029.304199" rpy="90.000000 0.000000 -47.612202" a="137.612"/>
+	<group name="bldr_plnt_t_PiceaAbies_3s" pos="7366.463867 91.676392 7979.676758" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7363.596680 82.229240 7974.468262" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7360.298828 82.223831 7979.998535" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7360.724609 82.221825 7995.270508" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7335.383789 82.221794 7989.157227" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7345.051758 82.262756 7968.549316" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7349.339844 84.394882 7964.500000" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7349.106934 78.415756 7967.946289" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7304.260742 82.751808 7911.120605" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7307.855957 84.471062 7917.100586" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7303.721680 86.085976 7913.994141" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7310.333008 86.027870 7916.415039" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7306.150391 86.121826 7909.100098" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7297.195801 86.169479 7898.583008" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7297.668457 86.274948 7895.374512" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7285.171387 86.321259 7892.271973" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7286.920898 86.304413 7893.980957" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7235.510254 85.811821 7939.257324" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7228.880371 85.800461 7942.462891" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7223.221680 86.544975 7949.355957" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7231.372070 80.941002 7943.745117" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7260.936035 85.959915 7970.571777" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7263.267090 85.940620 7971.590820" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7268.595215 85.761833 7973.851074" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_1s" pos="7273.281738 85.364090 7978.118652" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_t_PiceaAbies_2f" pos="7274.642578 85.409492 7981.513184" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7260.790527 84.799309 7969.715820" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7260.041992 84.797813 7970.024414" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7261.881836 84.798622 7969.664551" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7262.546875 84.793282 7970.034668" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7263.047852 84.784195 7970.671875" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7263.407715 84.776802 7971.234375" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7262.632813 84.783173 7971.211426" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7260.756348 84.796638 7970.270020" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7260.153320 84.797890 7970.010254" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7260.143066 84.801369 7969.285645" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7261.896484 84.798271 7969.699707" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7262.702637 84.786064 7970.781250" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7263.136719 84.779091 7971.215820" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7262.088379 84.785828 7971.184082" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7261.875000 84.788895 7970.876465" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7263.721191 84.772667 7971.439941" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7263.815430 84.771271 7971.515137" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7261.687500 84.787491 7971.136719" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7261.224609 84.928787 7968.909668" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7262.038086 84.923973 7969.634766" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.087891 84.799591 7977.933105" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.198242 84.799606 7978.668457" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7274.000488 84.799599 7978.282715" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.670898 84.799606 7976.952637" rpy="0.000000 0.000000 -35.999996" a="126"/>
+	<group name="bldr_plnt_c_GrassFlowersWhiteTall_summer" pos="7273.023926 84.817902 7975.546387" rpy="0.000000 0.000000 -35.999996" a="126"/>
 </map>
