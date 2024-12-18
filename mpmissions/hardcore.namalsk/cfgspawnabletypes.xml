@@ -2494,4 +2494,12 @@
             <item name="SparkPlug" chance="1.00" />
         </attachments>
     </type>
+<!-- GW Additions -->
+    <!-- InediaInfectedAI-->
+    <type name="InediaPain_SurgicalKit">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="InediaPain_HemostaticDressing">
+        <damage min="0.0" max="0.0" />
+    </type>
 </spawnabletypes>

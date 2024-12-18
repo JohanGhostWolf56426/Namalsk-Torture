@@ -360,7 +360,7 @@
             }
         },
         "BreakingDoorsHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "BreakingDoorsRestrictedDoors": {
             "all": {
@@ -411,7 +411,7 @@
         "BreakingDoorsCrawlersChanceMultiplier": {
             "all": 0.0
         },
-        "AttackPlayersUnconscious": {
+        "AttackPlayersUnconsciousHandlerIsActive": {
             "all": 1
         },
         "AttackPlayersUnconsciousHitsLimit": {
@@ -1137,6 +1137,12 @@
             "mediumstr": 0.6499999761581421,
             "lowstr": 0.6000000238418579
         },
+        "PainToPlayerLimbsBreakChancesMultiplier": {
+            "all": 1.0
+        },
+        "PainToPlayerLimbsDeepWoundChancesMultiplier": {
+            "all": 1.0
+        },
         "DamageToZombieHandlerIsActive": {
             "all": 1
         },
@@ -1496,7 +1502,7 @@
         "SmellLifetimeSeconds": 120.0,
         "SmellsCountOnMapLimit": 1000,
         "FootstepsNoiseHandlerIsActive": 1,
-        "SearchBodyToViewCargo": 0,
+        "SearchBodyToViewCargo": 1,
         "SearchBodyToViewCargoSeconds": 3.0,
         "SearchBodyExtendLootingToPlayersInRadiusMeters": 30.0,
         "SearchBodyOnlyEmptyHands": 0,
@@ -1529,35 +1535,33 @@
         "DisableVanillaDoorNoiseSystem": 1,
         "OverrideGetHitComponentChances": 1,
         "PainSystemIsActive": 1,
+        "PainSystemNotificationsType": 2.0,
         "ShowPainBadges": 1,
+        "ShowPainBlur": 1,
+        "ShowMedicationInfo": 1,
         "PainHealingRatePerSecondPercent": 0.10000000149011612,
         "HealthDrainWithOverPainedLimbPerSecondPercent": 0.10000000149011612,
-        "BleedingChanceMultiplierWhenOverPainedLimbReceivingHits": 3.0,
-        "ShowPainBlur": 1,
-        "LimbsBreakChancesMultiplier": 1.0,
-        "LimbsBreakPainThresholdPercent": 30.0,
-        "LimbsBreakCalciumDurationSeconds": 300.0,
-        "LimbsBreakCalciumHealingMultiplier": 3.299999952316284,
-        "HeadBreakDurationSeconds": 1000.0,
-        "ArmsBreakDurationSeconds": 1000.0,
-        "LegsBreakDurationSeconds": 1000.0,
-        "TorsoBreakDurationSeconds": 1000.0,
-        "LimbsBreakFromFalls": 1,
-        "LegsBreakFromTraps": 1,
         "VehicleCrashPainMultiplier": 1.0,
         "VehicleCollisionsPainMultiplier": 1.0,
         "FallPainMultiplier": 1.0,
         "ExplosionsPainMultiplier": 1.0,
-        "UnconsciousWhenHeadBreak": 1,
         "UnconsciousWhenOverPainedHeadReceivingHits": 1,
         "CrouchWhenOverPainedTorsoReceivingHits": 1,
-        "ArmsLowerWhenAimingWithInjuredArms": 1,
+        "ArmsLowerWhenAimingWithPainedArms": 1,
         "ArmsLowerWhenOverPainedArmsReceivingHits": 1,
         "ArmsPainShockDamageActions": {
             "all": 2.0,
-            "ActionUnrestrainSelf": 1.0,
-            "ActionPushCar": 4.0,
             "ActionMineRock": 4.0,
+            "ActionPushCar": 4.0,
+            "ActionForceConsume": 0.0,
+            "ActionConsume": 0.0,
+            "ActionForceConsumeSingle": 0.0,
+            "ActionDisinfectTarget": 0.0,
+            "ActionDisinfectSelf": 0.0,
+            "ActionInjectTarget": 0.0,
+            "ActionInjectSelf": 0.0,
+            "ActionConsumeSingle": 0.0,
+            "ActionUnrestrainSelf": 1.0,
             "ActionMineTree": 4.0
         },
         "ArmsPainUnrestrainItems": {
@@ -1575,6 +1579,27 @@
         "PainArmsWhenHitWithoutGloves": 1,
         "ShockIfRunsWithPainedLegs": 1,
         "ShockIfAttackingWithPainedArms": 1,
+        "LimbsBreakSystemIsActive": 1,
+        "LimbsBreakPainThresholdPercent": 30.0,
+        "HeadBreakDurationSeconds": 1800.0,
+        "ArmsBreakDurationSeconds": 1800.0,
+        "LegsBreakDurationSeconds": 1800.0,
+        "TorsoBreakDurationSeconds": 1800.0,
+        "LimbsBreakFromFalls": 1,
+        "LegsBreakFromTraps": 1,
+        "UnconsciousWhenHeadBreak": 1,
+        "LimbsDeepWoundSystemIsActive": 1,
+        "HeadDeepWoundDurationSeconds": 1800.0,
+        "ArmsDeepWoundDurationSeconds": 1800.0,
+        "LegsDeepWoundDurationSeconds": 1800.0,
+        "TorsoDeepWoundDurationSeconds": 1800.0,
+        "LimbsDeepWoundVanillaCutBleedRateMultiplier": 0.10000000149011612,
+        "LimbsDeepWoundFromFalls": 1,
+        "LegsDeepWoundFromTraps": 1,
+        "LimbsBulletSystemIsActive": 1,
+        "LimbsBulletTimeToSecondStageSeconds": 3600.0,
+        "InternalBleedingSystemIsActive": 1,
+        "InternalBleedingBloodLossRateMl": 2.0,
         "DestroyedDoorNotificationType": 2.0,
         "NoiseMultiplierDay": 2.0,
         "NoiseMultiplierNight": 2.0,
