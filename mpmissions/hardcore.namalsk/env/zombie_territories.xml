@@ -18,7 +18,7 @@
     </territory>
     <territory color="2164195328">
         <zone name="InfectedMedic" smin="5" smax="10" dmin="3" dmax="8" x="6732.62" z="10987.9" r="50"/>
-        <zone name="InfectedMedic" smin="5" smax="10" dmin="3" dmax="8" x="7280" z="7955" r="50"/>
+        <zone name="InfectedMedic" smin="4" smax="8" dmin="8" dmax="16" x="7280" z="7955" r="50"/>
         <!-- GW Additions -->
         <!-- Lubjansk -->
         <zone name="InfectedMedic" smin="1" smax="2" dmin="2" dmax="4" x="4507.42" z="11037.11" r="50"/>
@@ -140,5 +140,7 @@
         <zone name="InfectedNBC" smin="2" smax="4" dmin="4" dmax="8" x="1221.97" z="11843.5" r="75"/>
         <!-- Lubjansk Bay Military -->
         <zone name="InfectedArmy" smin="4" smax="8" dmin="8" dmax="16" x="4674"  z="9848" r="75"/>
+        <!-- Tara -->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="8" dmax="16" x="7267"  z="7050" r="75"/>
     </territory>
 </territory-type>
