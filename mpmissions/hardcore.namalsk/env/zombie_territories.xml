@@ -15,6 +15,9 @@
         <zone name="InfectedCivil" smin="0" smax="0" dmin="2" dmax="5" x="8077.78" z="11205.6" r="50"/>
         <zone name="InfectedCivil" smin="0" smax="0" dmin="3" dmax="8" x="4503.13" z="10965.6" r="100"/>
         <zone name="InfectedCivil" smin="5" smax="10" dmin="3" dmax="8" x="5208.93" z="8596.43" r="75"/>
+        <!-- GW Additions -->
+        <!-- Namalsk Airfield Village -->
+        <zone name="InfectedCivil" smin="2" smax="4" dmin="4" dmax="8" x="6222" z="9920" r="100"/>
     </territory>
     <territory color="2164195328">
         <zone name="InfectedMedic" smin="5" smax="10" dmin="3" dmax="8" x="6732.62" z="10987.9" r="50"/>
