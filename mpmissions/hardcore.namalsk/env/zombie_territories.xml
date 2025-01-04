@@ -25,6 +25,9 @@
         <!-- GW Additions -->
         <!-- Lubjansk -->
         <zone name="InfectedMedic" smin="1" smax="2" dmin="2" dmax="4" x="4507.42" z="11037.11" r="50"/>
+        <!-- Namalsk Athena 1 -->
+        <zone name="InfectedMedic" smin="3" smax="5" dmin="3" dmax="5" x="3783.85" z="8208.85" r="50"/>
+        <zone name="InfectedMedic" smin="5" smax="7" dmin="3" dmax="5" x="3798.44" z="8294.27" r="50"/>
     </territory>
     <territory color="2164238848">
         <zone name="InfectedIndustrial" smin="3" smax="5" dmin="3" dmax="8" x="7670.83" z="7407.5" r="50"/>
@@ -145,5 +148,8 @@
         <zone name="InfectedArmy" smin="4" smax="8" dmin="8" dmax="16" x="4674"  z="9848" r="75"/>
         <!-- Tara -->
         <zone name="InfectedArmy" smin="4" smax="8" dmin="8" dmax="16" x="7267"  z="7050" r="75"/>
+        <!-- Namalsk Athena 1 -->
+        <zone name="InfectedArmy" smin="10" smax="13" dmin="7" dmax="10" x="3757.81" z="8277.6" r="50"/>
+        <zone name="InfectedArmy" smin="10" smax="13" dmin="7" dmax="10" x="3739.58" z="8216.15" r="50"/>
     </territory>
 </territory-type>
