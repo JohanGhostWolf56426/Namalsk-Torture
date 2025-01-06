@@ -269,4 +269,10 @@
 		<pos x="6243.666504" z="6366.140137" a="-1.0" />
 		<pos x="6244.720215" z="5644.699707" a="-1.0" />
 	</event>
+	<!-- @GoatTeam6 -->
+    <event name="AnimalGT6Group1" />
+	<event name="AnimalGT6Group2" />
+	<event name="AnimalGT6Group3" />
+	<event name="AnimalGT6Group4" />
+	<event name="AnimalGT6Group5" />
 </eventposdef>
