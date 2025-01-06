@@ -8,3 +8,5 @@ Mods Needed:
 @DayZ Editor Loader
 @GW_Server_Tweaks
 @InediaInfectedAI
+@Survivor Animations
+@DayZ-Bicycle

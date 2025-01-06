@@ -22,5 +22,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="GW_Items">
 		<file name="GW_Events.xml" type="events" />
 		<file name="GW_Types.xml" type="types" />
+		<file name="GW_Spawnabletypes.xml" type="spanwabletypes" />
 	</ce>
 </economycore>
