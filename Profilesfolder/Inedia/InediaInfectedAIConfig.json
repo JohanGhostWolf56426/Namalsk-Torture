@@ -1239,7 +1239,7 @@
             "all": 60.0
         },
         "BloodHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "BloodVolumeMl": {
             "all": 0.0,
